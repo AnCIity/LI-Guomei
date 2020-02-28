@@ -1,0 +1,1979 @@
+[
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "i5 8G 128G 深空灰": "1130683853",
+            "i5 8G 128G 金色": "1130683855",
+            "i5 8G 128G 银色": "1130683854",
+            "i5 8G 256G 深空灰": "1130683856",
+            "i5 8G 256G 金色": "1130683858",
+            "i5 8G 256G 银色": "1130683857",
+            "pagType": "1",
+            "skuId": "1130683854"
+        },
+        "brand": "苹果(APPLE)",
+        "brandCode": "00002",
+        "brandId": "10000098",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140146232-1130683854.html",
+        "energyState": 0,
+        "gomePrice": 8899,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140146232-1130683854.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1DBbyBv_v1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140146232-1130683854.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1h3KyBbCv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140146232-1130683854.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1p3byB_xv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140146232-1130683854.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T13sAyB4Dv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140146232-1130683854.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1OWEyBKxT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201907/cat10000092/1130683854_1.html",
+        "name": "Apple 2019款 MacBook Air 13.3 Retina屏 八代i5 8G 128G SSD 银色 苹果笔记本电脑 轻薄本 MVFK2CH/A",
+        "price": 0,
+        "productId": "9140146232",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "i5 8G 128G 深空灰",
+                        "id": "81ad9bc6f6434156ae",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1lsKyBgAv1RCvBVdK",
+                        "title": "i5 8G 128G 深空灰",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "i5 8G 128G 银色",
+                        "id": "9084905c882446c6aa",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1DBbyBv_v1RCvBVdK",
+                        "target": "cur",
+                        "title": "i5 8G 128G 银色",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "i5 8G 128G 金色",
+                        "id": "03cba2c20b5046889d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1VqLyBsLT1RCvBVdK",
+                        "title": "i5 8G 128G 金色",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "i5 8G 256G 深空灰",
+                        "id": "fd885e4344e4469984",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1RsVyBmLv1RCvBVdK",
+                        "title": "i5 8G 256G 深空灰",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "i5 8G 256G 银色",
+                        "id": "09cb52932c634cd88d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1JqVyB7Cv1RCvBVdK",
+                        "title": "i5 8G 256G 银色",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "i5 8G 256G 金色",
+                        "id": "dc846e7be96f4763a0",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1SsCyBbJv1RCvBVdK",
+                        "title": "i5 8G 256G 金色",
+                        "weight": "6"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130683854",
+        "skuBlackList": false,
+        "skuId": "1130683854",
+        "skuNo": "100546948",
+        "skuNoMap": {
+            "1130683853": "100546947",
+            "1130683854": "100546948",
+            "1130683855": "100546949",
+            "1130683856": "100546950",
+            "1130683857": "100546951",
+            "1130683858": "100547212"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "9代i5 120Hz刷新率": "1130665361",
+            "9代i5 1660Ti 6G显卡": "1130777551",
+            "9代i7 120Hz刷新率": "1130665362",
+            "9代i7 1660Ti 6G显卡": "1130777550",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130665362"
+        },
+        "brand": "华硕(ASUS)",
+        "brandCode": "00115",
+        "brandId": "10000154",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140144138-1130665362.html",
+        "energyState": 0,
+        "gomePrice": 6999,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140144138-1130665362.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1b6CgBvWv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140144138-1130665362.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T10WZgBCL_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140144138-1130665362.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1GKWjBCWv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140144138-1130665362.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1D7JQB_Wv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140144138-1130665362.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1ZhCbBXK_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140144138-1130665362.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T19iAjBQD_1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201905/cat10000092/1130665362_1.html",
+        "name": "华硕(ASUS) 飞行堡垒7 FX95 九代i7 15.6英寸游戏笔记本电脑(i7-9750H 8G 512SSD GTX1650 120Hz)金属电竞",
+        "price": 0,
+        "productId": "9140144138",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "9代i5 120Hz刷新率",
+                        "id": "407b55f717f74d3684",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1amKgBgAv1RCvBVdK",
+                        "title": "9代i5 120Hz刷新率",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "9代i7 120Hz刷新率",
+                        "id": "f18739e1501949daab",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1b6CgBvWv1RCvBVdK",
+                        "target": "cur",
+                        "title": "9代i7 120Hz刷新率",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "9代i5 1660Ti 6G显卡",
+                        "id": "ed253dfe67cd484fa6",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1iHdCBgJT1RCvBVdK",
+                        "title": "9代i5 1660Ti 6G显卡",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "9代i7 1660Ti 6G显卡",
+                        "id": "b5ee10adf3b24658ba",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1zpdCB5WT1RCvBVdK",
+                        "title": "9代i7 1660Ti 6G显卡",
+                        "weight": "4"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130665362",
+        "skuBlackList": false,
+        "skuId": "1130665362",
+        "skuNo": "100536678",
+        "skuNoMap": {
+            "1130665361": "100536679",
+            "1130665362": "100536678",
+            "1130777550": "100592816",
+            "1130777551": "100592817"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "N41004G256G硬盘": "1130664091",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130652370",
+            "小新14256G硬盘灰": "1130652370",
+            "小新14256G硬盘粉": "1130662733",
+            "小新14256G硬盘集显": "1130658427",
+            "小新144G256G硬盘": "1130664241",
+            "小新14512G硬盘灰": "1130662731",
+            "小新14512G硬盘粉": "1130662734",
+            "小新148G256G硬盘": "1130634826",
+            "小新14I58G1T SSD": "1130659421",
+            "小新14R54G256": "1130705447",
+            "小新锐龙版1T256G": "1130667743",
+            "小新青春版256G黑": "1130662735",
+            "潮7000256G硬盘银": "1130570821",
+            "潮7000512G硬盘银": "1130649023"
+        },
+        "brand": "联想(lenovo)",
+        "brandCode": "00112",
+        "brandId": "10000085",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140074237-1130652370.html",
+        "energyState": 0,
+        "gomePrice": 5299,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140074237-1130652370.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1KtbQBCbv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140074237-1130652370.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1InxbBbDT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140074237-1130652370.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1NUDbBmC_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140074237-1130652370.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1OJdjB5Av1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140074237-1130652370.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T12jWbBvd_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140074237-1130652370.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1AcDTB7V_1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201906/desc0626-qq195/1130652370.html",
+        "name": "联想(Lenovo)小新14.0英寸酷睿I5轻薄本笔记本电脑(i5-8265U 8G 256GB MX230 2G独显 高清屏)渣渣灰",
+        "price": 0,
+        "productId": "9140074237",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "小新14256G硬盘灰",
+                        "id": "e3fcba70c36645c5aa",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KtbQBCbv1RCvBVdK",
+                        "target": "cur",
+                        "title": "小新14/256G硬盘/灰",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "小新锐龙版1T256G",
+                        "id": "28dedacd96df451bae",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1wcJQB4x_1RCvBVdK",
+                        "title": "小新锐龙版/1T+256G/",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "小新14512G硬盘灰",
+                        "id": "9ffe0d35a7d3443baf",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1rtKsBbCv1RCvBVdK",
+                        "title": "小新14/512G硬盘/灰",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "小新14I58G1T SSD",
+                        "id": "a2f20784ee1042ebbd",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1S8xXB7Yv1RCvBVdK",
+                        "title": "小新14/I5/8G/1T SSD",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "小新青春版256G黑",
+                        "id": "c81ae79d73a84987a5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1bTEvBbYj1RCvBVdK",
+                        "title": "小新青春版/256G/黑",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "N41004G256G硬盘",
+                        "id": "4e45f5aee7344e05ac",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1qSVsBbEv1RCvBVdK",
+                        "title": "N4100/4G/256G硬盘",
+                        "weight": "6"
+                    },
+                    {
+                        "alt": "小新14256G硬盘集显",
+                        "id": "38ad609e2d6d4bc1bf",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1b3DvBTWT1RCvBVdK",
+                        "title": "小新14/256G硬盘/集显",
+                        "weight": "7"
+                    },
+                    {
+                        "alt": "小新144G256G硬盘",
+                        "id": "60bfe271813c4e9488",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1YKhsBQDv1RCvBVdK",
+                        "title": "小新14/4G/256G硬盘",
+                        "weight": "8"
+                    },
+                    {
+                        "alt": "潮7000512G硬盘银",
+                        "id": "a6d548768bc443a9a6",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1FkAsBQDT1RCvBVdK",
+                        "title": "潮7000/512G硬盘/银",
+                        "weight": "9"
+                    },
+                    {
+                        "alt": "小新14256G硬盘粉",
+                        "id": "09b0b1b99bf0475597",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T15sAbBCJ_1RCvBVdK",
+                        "title": "小新14/256G硬盘/粉",
+                        "weight": "11"
+                    },
+                    {
+                        "alt": "小新148G256G硬盘",
+                        "id": "884fd670bbfb4845a0",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1TQbbB_b_1RCvBVdK",
+                        "title": "小新14/8G/256G硬盘",
+                        "weight": "15"
+                    },
+                    {
+                        "alt": "潮7000256G硬盘银",
+                        "id": "6b988aff567a4eeb8e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1pMVgBCYv1RCvBVdK",
+                        "title": "潮7000/256G硬盘/银",
+                        "weight": "16"
+                    },
+                    {
+                        "alt": "小新14512G硬盘粉",
+                        "id": "8083de949f39490d8e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1cULQBXE_1RCvBVdK",
+                        "title": "小新14/512G硬盘/粉",
+                        "weight": "18"
+                    },
+                    {
+                        "alt": "小新14R54G256",
+                        "id": "4fd7c4080e3a4437a4",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1QDCXB4_v1RCvBVdK",
+                        "title": "小新14/R5/4G/256",
+                        "weight": "29"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130652370",
+        "skuBlackList": false,
+        "skuId": "1130652370",
+        "skuNo": "100522942",
+        "skuNoMap": {
+            "1130570821": "100470353",
+            "1130634826": "100540536",
+            "1130649023": "100511647",
+            "1130652370": "100522942",
+            "1130658427": "100540271",
+            "1130659421": "100549114",
+            "1130662731": "100535353",
+            "1130662733": "100535352",
+            "1130662734": "100535342",
+            "1130662735": "100533961",
+            "1130664091": "100540029",
+            "1130664241": "100538456",
+            "1130667743": "100535839",
+            "1130705447": "100558212"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130692201",
+            "四核N4100 4G 128G 集显 黑": "1130621266",
+            "四核N4100 4G 500G 集": "1130692201"
+        },
+        "brand": "宏碁(ACER)",
+        "brandCode": "00236",
+        "brandId": "10001689",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140133866-1130692201.html",
+        "energyState": 0,
+        "gomePrice": 1999,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140133866-1130692201.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1RmEXBbCT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140133866-1130692201.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1U5bXBjDv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140133866-1130692201.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1IgVsB4Y_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140133866-1130692201.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1V6hXBKET1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140133866-1130692201.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1fcEXBsKT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201908/desc20190805-wm6/1130692201.html",
+        "name": "宏碁（Acer）A314-32-C24Q 14英寸笔记本电脑（四核N4100 4G 500G win10 黑)",
+        "price": 0,
+        "productId": "9140133866",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "四核N4100 4G 500G 集",
+                        "id": "49bb36ae82f84fe28d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1RmEXBbCT1RCvBVdK",
+                        "target": "cur",
+                        "title": "四核N4100 4G 500G 集",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "四核N4100 4G 128G 集显 黑",
+                        "id": "2ac26d90b384468295",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1GGDjB_Yv1RCvBVdK",
+                        "title": "四核N4100 4G 128G 集显 黑",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130692201",
+        "skuBlackList": false,
+        "skuId": "1130692201",
+        "skuNo": "100550098",
+        "skuNoMap": {
+            "1130621266": "100523682",
+            "1130692201": "100550098"
+        },
+        "skuType": "ZSP",
+        "stats": 2,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "S4300-i5-冰钻金": "1130636775",
+            "S4300-i5-消光灰": "1130633246",
+            "S4300-i7-冰钻金": "1130594202",
+            "S4300-i7-消光灰": "1130594203",
+            "S5300-i5-冰钻金": "1130590935",
+            "S5300-i5-星空灰红边": "1130594082",
+            "S5300-i5-金属银黄边": "1130589302",
+            "S5300-i7-16G-冰钻金": "1130571478",
+            "S5300-i7-16G-消光灰": "1130597688",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130636775",
+            "大屏 I5 512SSD灰": "1130569542",
+            "大屏 新I5 512SSD灰": "1130648302",
+            "大屏 新I5 512SSD绿": "1130640370",
+            "大屏 新I5 512SSD金": "1130640371",
+            "大屏 新I7 512SSD金": "1130673395",
+            "新I5 8G 256SSD灰": "1130661984",
+            "新I5 8G 512SSD灰": "1130640372",
+            "新I5 8G 512SSD绿": "1130659843",
+            "新I5 8G 512SSD金": "1130640373",
+            "新I7 8G 256SSD灰": "1130631346",
+            "新I7 8G 256SSD金": "1130640374",
+            "此商品已经下架": "1130594201"
+        },
+        "brand": "华硕(ASUS)",
+        "brandCode": "00115",
+        "brandId": "10000154",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140115916-1130636775.html",
+        "energyState": 0,
+        "gomePrice": 5099,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140115916-1130636775.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1ETKsBCV_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140115916-1130636775.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1RfDsB7LT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140115916-1130636775.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T19ixsBvD_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140115916-1130636775.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1zQdsBsDv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140115916-1130636775.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1rQKsB4WT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201906/desc0627-qq192/1130636775.html",
+        "name": "华硕(ASUS) 灵耀S4300 (i5-8250U 8G 256G SSD 2G独显)冰钻金",
+        "price": 0,
+        "productId": "9140115916",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "S4300-i7-冰钻金",
+                        "id": "df999e9f8913429586",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1l0DbBs_v1RCvBVdK",
+                        "title": "S4300-i7-冰钻金",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "S4300-i7-消光灰",
+                        "id": "1ee9c55296f641b095",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1b9AsB4Yv1RCvBVdK",
+                        "title": "S4300-i7-消光灰",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "S4300-i5-冰钻金",
+                        "id": "5eca7e664888469bb1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1ETKsBCV_1RCvBVdK",
+                        "target": "cur",
+                        "title": "S4300-i5-冰钻金",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "S4300-i5-消光灰",
+                        "id": "037c3dbe39784ad6b5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1FfYbBjJv1RCvBVdK",
+                        "title": "S4300-i5-消光灰",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "S5300-i5-冰钻金",
+                        "id": "7d8772f366c440088b",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1d6bbBvE_1RCvBVdK",
+                        "title": "S5300-i5-冰钻金",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "大屏 I5 512SSD灰",
+                        "id": "fa0339a1807243ecb5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1NQZsBCV_1RCvBVdK",
+                        "title": "大屏 I5 512SSD灰",
+                        "weight": "6"
+                    },
+                    {
+                        "alt": "S5300-i7-16G-冰钻金",
+                        "id": "c0c7c5a425134c818f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KexsB4__1RCvBVdK",
+                        "title": "S5300-i7-16G-冰钻金",
+                        "weight": "7"
+                    },
+                    {
+                        "alt": "S5300-i7-16G-消光灰",
+                        "id": "81055d7bc3e64b1c9f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1quZsBm_v1RCvBVdK",
+                        "title": "S5300-i7-16G-消光灰",
+                        "weight": "8"
+                    },
+                    {
+                        "alt": "S5300-i5-星空灰红边",
+                        "id": "3b46490456604c26b4",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T10fZsBCV_1RCvBVdK",
+                        "title": "S5300-i5-星空灰红边",
+                        "weight": "9"
+                    },
+                    {
+                        "alt": "S5300-i5-金属银黄边",
+                        "id": "a0eead60e896435884",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1_idsBTJv1RCvBVdK",
+                        "title": "S5300-i5-金属银黄边",
+                        "weight": "10"
+                    },
+                    {
+                        "alt": "大屏 新I5 512SSD绿",
+                        "id": "f5c6b940b3e747daa2",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1lnLsB4Yv1RCvBVdK",
+                        "title": "大屏 新I5 512SSD绿",
+                        "weight": "11"
+                    },
+                    {
+                        "alt": "大屏 新I5 512SSD金",
+                        "id": "f720f1d183984091b4",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1dMCsB4Kv1RCvBVdK",
+                        "title": "大屏 新I5 512SSD金",
+                        "weight": "12"
+                    },
+                    {
+                        "alt": "新I5 8G 512SSD灰",
+                        "id": "3f2ad63c7eb444339c",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1VuYsBQYT1RCvBVdK",
+                        "title": "新I5 8G 512SSD灰",
+                        "weight": "13"
+                    },
+                    {
+                        "alt": "新I5 8G 512SSD金",
+                        "id": "385d1cf1007e4b1991",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1gfhsBvV_1RCvBVdK",
+                        "title": "新I5 8G 512SSD金",
+                        "weight": "14"
+                    },
+                    {
+                        "alt": "新I7 8G 256SSD金",
+                        "id": "6c13454eef1f44168a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KiKsBXhT1RCvBVdK",
+                        "title": "新I7 8G 256SSD金",
+                        "weight": "15"
+                    },
+                    {
+                        "alt": "此商品已经下架",
+                        "id": "1d6ef658b9914bcfb5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1ZuZsB5A_1RCvBVdK",
+                        "title": "此商品已经下架",
+                        "weight": "16"
+                    },
+                    {
+                        "alt": "大屏 新I5 512SSD灰",
+                        "id": "ee5458d09559447ca5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1.DbsB7LT1RCvBVdK",
+                        "title": "大屏 新I5 512SSD灰",
+                        "weight": "17"
+                    },
+                    {
+                        "alt": "新I5 8G 512SSD绿",
+                        "id": "fc68dd6bef7b4a59a3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1EfJsB7LT1RCvBVdK",
+                        "title": "新I5 8G 512SSD绿",
+                        "weight": "18"
+                    },
+                    {
+                        "alt": "新I5 8G 256SSD灰",
+                        "id": "c7515911e4a14a8a9f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1XuhsBTD_1RCvBVdK",
+                        "title": "新I5 8G 256SSD灰",
+                        "weight": "19"
+                    },
+                    {
+                        "alt": "新I7 8G 256SSD灰",
+                        "id": "787ac3b479dd4ceaa0",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T17eCsBCV_1RCvBVdK",
+                        "title": "新I7 8G 256SSD灰",
+                        "weight": "20"
+                    },
+                    {
+                        "alt": "大屏 新I7 512SSD金",
+                        "id": "3122adc4a6084bf394",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1QJhsByxT1RCvBVdK",
+                        "title": "大屏 新I7 512SSD金",
+                        "weight": "21"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130636775",
+        "skuBlackList": false,
+        "skuId": "1130636775",
+        "skuNo": "100492817",
+        "skuNoMap": {
+            "1130569542": "100483472",
+            "1130571478": "100483908",
+            "1130589302": "100483453",
+            "1130590935": "100483495",
+            "1130594082": "100483384",
+            "1130594201": "100483413",
+            "1130594202": "100483433",
+            "1130594203": "100483374",
+            "1130597688": "100484062",
+            "1130631346": "100538275",
+            "1130633246": "100492818",
+            "1130636775": "100492817",
+            "1130640370": "100505972",
+            "1130640371": "100504559",
+            "1130640372": "100505973",
+            "1130640373": "100504561",
+            "1130640374": "100505974",
+            "1130648302": "100510914",
+            "1130659843": "100530861",
+            "1130661984": "100533237",
+            "1130673395": "100540125"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "I5 256G 独显 00CD": "1130654172",
+            "I5 8G 1T 03CD": "1130681629",
+            "I5 8G 256G 1ACD": "1130659828",
+            "I5 8G 512G 08CD": "1130653285",
+            "I5 8G 512G 0SCD": "1130745904",
+            "I7 8G 1T 07CD": "1130716974",
+            "I7 8G 512G 06CD": "1130654281",
+            "I7 8G 512G 0TCD": "1130722064",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130653285",
+            "已下架 02CD": "1130654175",
+            "已下架 05CD": "1130653300",
+            "已下架 0WCD": "1130624146",
+            "已下架 1WCD": "1130708258",
+            "已下架04CD": "1130649181",
+            "已下架0SCD": "1130715284",
+            "已下架0TCD": "1130711287",
+            "已下架1DCD": "1130624147",
+            "已下架1MCD": "1130659955"
+        },
+        "brand": "联想(ThinkPad)",
+        "brandCode": "01813",
+        "brandId": "10000156",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140134956-1130653285.html",
+        "energyState": 0,
+        "gomePrice": 8199,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134956-1130653285.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1kddQBKV_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134956-1130653285.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1vLDQBgEv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134956-1130653285.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1VTEbB7bv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134956-1130653285.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1Vn_jBbZv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134956-1130653285.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1UhVQBg__1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134956-1130653285.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T16.DbBvJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134956-1130653285.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T19XYbBvAv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201904/desc0404GH-02/1130653285.html",
+        "name": "ThinkPad T490(08CD)14.0英寸笔记本电脑 (I5-8265U 8G 512G硬盘 集显 FHD 指纹识别 Win10 黑色）",
+        "price": 0,
+        "productId": "9140134956",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "I5 8G 256G 1ACD",
+                        "id": "d61bcf6aab844298bb",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "I5 8G 256G 1ACD",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "I5 8G 512G 08CD",
+                        "id": "b15e2ec88f474ef387",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "I5 8G 512G 08CD",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "I5 256G 独显 00CD",
+                        "id": "8361c938e3c84a3395",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "I5 256G 独显 00CD",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "I7 8G 512G 0TCD",
+                        "id": "223f282c4c0e4b78a3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "I7 8G 512G 0TCD",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "I7 8G 512G 06CD",
+                        "id": "c09a775615ae4f05a9",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "I7 8G 512G 06CD",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "I5 8G 512G 0SCD",
+                        "id": "ab563d24a4e4481a85",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "I5 8G 512G 0SCD",
+                        "weight": "6"
+                    },
+                    {
+                        "alt": "I7 8G 1T 07CD",
+                        "id": "ff8befcdc9344d3e8b",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "I7 8G 1T 07CD",
+                        "weight": "7"
+                    },
+                    {
+                        "alt": "I5 8G 1T 03CD",
+                        "id": "006f98a37bed4331b8",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "I5 8G 1T 03CD",
+                        "weight": "8"
+                    },
+                    {
+                        "alt": "已下架 1WCD",
+                        "id": "7e2a71cab5e1408b8e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架 1WCD",
+                        "weight": "9"
+                    },
+                    {
+                        "alt": "已下架1MCD",
+                        "id": "628c98e6ec0e48739a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架1MCD",
+                        "weight": "10"
+                    },
+                    {
+                        "alt": "已下架 0WCD",
+                        "id": "5e8ed71a46994206b4",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架 0WCD",
+                        "weight": "11"
+                    },
+                    {
+                        "alt": "已下架1DCD",
+                        "id": "4f4cc7933f364eed80",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架1DCD",
+                        "weight": "12"
+                    },
+                    {
+                        "alt": "已下架04CD",
+                        "id": "71759cc73130413d91",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架04CD",
+                        "weight": "13"
+                    },
+                    {
+                        "alt": "已下架 02CD",
+                        "id": "cc6dd77078cb4b8f8e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架 02CD",
+                        "weight": "14"
+                    },
+                    {
+                        "alt": "已下架 05CD",
+                        "id": "ccb11f8080ba486bbb",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架 05CD",
+                        "weight": "15"
+                    },
+                    {
+                        "alt": "已下架0SCD",
+                        "id": "c638e2a5d880422fa3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架0SCD",
+                        "weight": "20"
+                    },
+                    {
+                        "alt": "已下架0TCD",
+                        "id": "00b45121b2154ab3b1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "已下架0TCD",
+                        "weight": "21"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130653285",
+        "skuBlackList": false,
+        "skuId": "1130653285",
+        "skuNo": "100526445",
+        "skuNoMap": {
+            "1130624146": "100526495",
+            "1130624147": "100530584",
+            "1130649181": "100526532",
+            "1130653285": "100526445",
+            "1130653300": "100530753",
+            "1130654172": "100530703",
+            "1130654175": "100525379",
+            "1130654281": "100526358",
+            "1130659828": "100530585",
+            "1130659955": "100530675",
+            "1130681629": "100572275",
+            "1130708258": "100572206",
+            "1130711287": "100558269",
+            "1130715284": "100564816",
+            "1130716974": "100568748",
+            "1130722064": "100577829",
+            "1130745904": "100578962"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "16G RTX2060 6G": "1130692911",
+            "8G8G GTX1660Ti 6G": "1130692559",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130692559"
+        },
+        "brand": "宏碁(ACER)",
+        "brandCode": "00236",
+        "brandId": "10001689",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140161330-1130692559.html",
+        "energyState": 0,
+        "gomePrice": 11499,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140161330-1130692559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T16xCXBjET1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140161330-1130692559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1wbxXBbVv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140161330-1130692559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1EWJXB4Z_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140161330-1130692559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1tbDXB4Dv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140161330-1130692559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1uWCXBQYT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140161330-1130692559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1nYKXBKhT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140161330-1130692559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1YxDXB5Dv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201909/cat10000092/1130692559.html",
+        "name": "掠夺者战斧300 PH315 15.6英寸电竞游戏笔记本电脑(i7-9750H 8G+8G 512G PCIe GTX1660Ti-6G IPS FPS Win10 )",
+        "price": 0,
+        "productId": "9140161330",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "16G RTX2060 6G",
+                        "id": "8819b0619c814975a6c2",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1BxDXBgVv1RCvBVdK",
+                        "title": "16G RTX2060 6G",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "8G8G GTX1660Ti 6G",
+                        "id": "1d23439ba74e4bae9c0d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T16xCXBjET1RCvBVdK",
+                        "target": "cur",
+                        "title": "8G+8G GTX1660Ti 6G",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130692559",
+        "skuBlackList": false,
+        "skuId": "1130692559",
+        "skuNo": "100576294",
+        "skuNoMap": {
+            "1130692559": "100576294",
+            "1130692911": "100575119"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "5598-R1625S十代i5&8G512GB固态1T机械定制": "pop8012952557",
+            "5598-R1625S十代i5&8G内存1TB固态定制": "pop8012952556",
+            "5598-R1625S十代i5&8G内存512G固态官方标配": "pop8013121798",
+            "5598-R1625S十代i5&8G内存512G固态标配": "pop8012533131",
+            "5598-R1625S十代i5&官方热销款": "pop8012952555",
+            "5598-R1725S十代i7&8G512GB固态1T机械定制": "pop8012952561",
+            "5598-R1725S十代i7&8G内存1TB固态定制": "pop8012952560",
+            "5598-R1725S十代i7&8G内存512G固态官方标配": "pop8013121799",
+            "5598-R1725S十代i7&8G内存512G固态标配": "pop8012952559",
+            "5598-R1725S十代i7&官方热销款": "pop8012952558",
+            "pagType": "1",
+            "skuId": "pop8012952559"
+        },
+        "brand": "戴尔(DELL)",
+        "brandCode": "00388",
+        "brandId": "10000127",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/A0006497462-pop8012952559.html",
+        "energyState": 0,
+        "gomePrice": 6599,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/A0006497462-pop8012952559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T119EXBjCT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/A0006497462-pop8012952559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1Xw_XByd_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/A0006497462-pop8012952559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1f9EXBQKT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/A0006497462-pop8012952559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T17wLXByVv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/A0006497462-pop8012952559.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T16S_XB4__1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/bbchtml/productDesc/descHtml201810/desc04/A0006497462.html",
+        "name": "戴尔灵越5000 fit 15.6英寸高性能轻薄窄边框笔记本电脑 可选十代i5/i7处理器 MX250 2G独显(5598-R1725S.十代i7 8G内存/512G固态/标配)",
+        "operADHref": "//desc.gome.com.cn/advert/platformad/cat10000092/top.html",
+        "price": 0,
+        "productId": "A0006497462",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "5598-R1725S十代i7",
+                        "id": "619f5abe4a38",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T119EXBjCT1RCvBVdK",
+                        "target": "cur",
+                        "title": "5598-R1725S.十代i7",
+                        "weight": "0"
+                    },
+                    {
+                        "alt": "5598-R1625S十代i5",
+                        "id": "97021bd3279f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T18MEXBjdT1RCvBVdK",
+                        "title": "5598-R1625S.十代i5",
+                        "weight": "0"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "官方热销款",
+                        "id": "6bbd14b2f2f8",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "官方热销款",
+                        "weight": "0"
+                    },
+                    {
+                        "alt": "8G内存1TB固态定制",
+                        "id": "42337b4a0fad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8G内存/1TB固态/定制",
+                        "weight": "0"
+                    },
+                    {
+                        "alt": "8G512GB固态1T机械定制",
+                        "id": "687c51984773",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8G/512GB固态+1T机械/定制",
+                        "weight": "0"
+                    },
+                    {
+                        "alt": "8G内存512G固态标配",
+                        "id": "43d422110762",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "8G内存/512G固态/标配",
+                        "weight": "0"
+                    },
+                    {
+                        "alt": "8G内存512G固态官方标配",
+                        "id": "742bf264581f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8G内存/512G固态/官方标配",
+                        "weight": "0"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZBBC",
+        "selltype": "0",
+        "shelfCtgy": "PP01",
+        "shopFlag": "1",
+        "shopName": "嘉和电脑专营店",
+        "shopNo": "80005619",
+        "sku": "pop8012952559",
+        "skuBlackList": false,
+        "skuId": "pop8012952559",
+        "skuNo": "8012952559",
+        "skuNoMap": {
+            "pop8012533131": "8012533131",
+            "pop8012952555": "8012952555",
+            "pop8012952556": "8012952556",
+            "pop8012952557": "8012952557",
+            "pop8012952558": "8012952558",
+            "pop8012952559": "8012952559",
+            "pop8012952560": "8012952560",
+            "pop8012952561": "8012952561",
+            "pop8013121798": "8013121798",
+            "pop8013121799": "8013121799"
+        },
+        "skuType": "ZBBC",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "AMDR58G256G银": "1130660112",
+            "I5-8265U256固态银": "1130666020",
+            "coo8Sign": "true",
+            "i5-8265U MX2502G": "1130715523",
+            "i5-8265U256G2G独显": "1130678294",
+            "i5-8265U256G固态红": "1130590048",
+            "i5-8265U256G固态银": "1130572796",
+            "i5-8265U256G银": "1130660111",
+            "i5-8265U2G独显红": "1130593985",
+            "i5-8265U2G独显银": "1130593986",
+            "i5-8265U8G256G紫": "1130660110",
+            "i5-8265U8G512G银": "1130678293",
+            "pagType": "1",
+            "skuId": "1130572796",
+            "十代i5-10210U1TSSD": "1130724971",
+            "十代i5-10210U2G独显": "1130705494",
+            "十代i5-10210U512G": "1130705495",
+            "十代i5-10210U8G": "1130705496",
+            "十代i5-10210UMX250": "1130705493",
+            "十代i5-1035G1512G": "1130765454",
+            "十代i5-1035G1MX230": "1130765456",
+            "十代i7-10510U1TSSD": "1130785344"
+        },
+        "brand": "戴尔(DELL)",
+        "brandCode": "00388",
+        "brandId": "10000127",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140127528-1130572796.html",
+        "energyState": 0,
+        "gomePrice": 5499,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130572796.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1dC__B7Wv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130572796.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T17sdQBQYT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130572796.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1hwWbBmYv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130572796.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1AxZQBmE_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130572796.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T16XVjB7Yv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201812/desc1210-qq184/1130572796.html",
+        "name": "戴尔（DELL）灵越INS 14-5480 14英寸轻薄笔记本电脑（i5-8265U 8G 256G固态 Win10） 银",
+        "price": 0,
+        "productId": "9140127528",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "i5-8265U256G固态红",
+                        "id": "b2e39ac5f0774046b5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1H6WsBXxv1RCvBVdK",
+                        "title": "i5-8265U/256G固态/红",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "i5-8265U256G固态银",
+                        "id": "5075ba131a7a400d8a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1dC__B7Wv1RCvBVdK",
+                        "target": "cur",
+                        "title": "i5-8265U/256G固态/银",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "i5-8265U2G独显红",
+                        "id": "f3d5e16e04be42bb86",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KzWjB5bT1RCvBVdK",
+                        "title": "i5-8265U/2G独显/红",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "i5-8265U2G独显银",
+                        "id": "9ba6ba3aa8e245c2b3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1rmKgBCh_1RCvBVdK",
+                        "title": "i5-8265U/2G独显/银",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "i5-8265U8G256G紫",
+                        "id": "22e44c619eda425a97",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1LfWQBC__1RCvBVdK",
+                        "title": "i5-8265U/8G/256G/紫",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "i5-8265U256G银",
+                        "id": "ad454c3a56ac4d53b0",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1RrJQBKA_1RCvBVdK",
+                        "title": "i5-8265U/256G/银",
+                        "weight": "6"
+                    },
+                    {
+                        "alt": "AMDR58G256G银",
+                        "id": "0e3383cbb7e248348f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1sZZsBsZv1RCvBVdK",
+                        "title": "AMDR5/8G/256G/银",
+                        "weight": "7"
+                    },
+                    {
+                        "alt": "I5-8265U256固态银",
+                        "id": "abc499c067a4454cb3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1Xw_sBmbv1RCvBVdK",
+                        "title": "I5-8265U/256固态/银",
+                        "weight": "8"
+                    },
+                    {
+                        "alt": "i5-8265U8G512G银",
+                        "id": "8c3cbfa081a4454ba9",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1PYZsB_ZT1RCvBVdK",
+                        "title": "i5-8265U/8G/512G/银",
+                        "weight": "9"
+                    },
+                    {
+                        "alt": "i5-8265U256G2G独显",
+                        "id": "d2c3942f5682449cb9",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1WxEsBsDv1RCvBVdK",
+                        "title": "i5-8265U/256G/2G独显",
+                        "weight": "10"
+                    },
+                    {
+                        "alt": "十代i5-10210UMX250",
+                        "id": "698414b1f0254520a3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T121hXB_xT1RCvBVdK",
+                        "title": "十代i5-10210U/MX250",
+                        "weight": "11"
+                    },
+                    {
+                        "alt": "十代i5-10210U2G独显",
+                        "id": "387f888e93f648be98",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1pjhXBjxT1RCvBVdK",
+                        "title": "十代i5-10210U/2G独显",
+                        "weight": "12"
+                    },
+                    {
+                        "alt": "十代i5-10210U512G",
+                        "id": "6691ac0ee12f4549b6",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1zQ_XBmdv1RCvBVdK",
+                        "title": "十代i5-10210U/512G",
+                        "weight": "13"
+                    },
+                    {
+                        "alt": "十代i5-10210U8G",
+                        "id": "b10782dd795a44f288",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1jlxXBCAT1RCvBVdK",
+                        "title": "十代i5-10210U/8G",
+                        "weight": "14"
+                    },
+                    {
+                        "alt": "i5-8265U MX2502G",
+                        "id": "ee31d78c9ba344679d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1dfLXBbbT1RCvBVdK",
+                        "title": "i5-8265U/ MX250/2G",
+                        "weight": "15"
+                    },
+                    {
+                        "alt": "十代i5-10210U1TSSD",
+                        "id": "a54fb44e140e463da3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1TqAXByJT1RCvBVdK",
+                        "title": "十代i5-10210U/1TSSD",
+                        "weight": "16"
+                    },
+                    {
+                        "alt": "十代i5-1035G1512G",
+                        "id": "00adca7e65e241cf93",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1aSVyBC_T1RCvBVdK",
+                        "title": "十代i5-1035G1/512G",
+                        "weight": "17"
+                    },
+                    {
+                        "alt": "十代i5-1035G1MX230",
+                        "id": "4c946ae9d4ba449d99",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1MSCyBjCT1RCvBVdK",
+                        "title": "十代i5-1035G1/MX230",
+                        "weight": "18"
+                    },
+                    {
+                        "alt": "十代i7-10510U1TSSD",
+                        "id": "1cf2c1d04eba424bb1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1ChACBbET1RCvBVdK",
+                        "title": "十代i7-10510U/1TSSD",
+                        "weight": "19"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130572796",
+        "skuBlackList": false,
+        "skuId": "1130572796",
+        "skuNo": "100484252",
+        "skuNoMap": {
+            "1130572796": "100484252",
+            "1130590048": "100484253",
+            "1130593985": "100484244",
+            "1130593986": "100484245",
+            "1130660110": "100540709",
+            "1130660111": "100540712",
+            "1130660112": "100540710",
+            "1130666020": "100541090",
+            "1130678293": "100545998",
+            "1130678294": "100545997",
+            "1130705493": "100564975",
+            "1130705494": "100564963",
+            "1130705495": "100564831",
+            "1130705496": "100564962",
+            "1130715523": "100566320",
+            "1130724971": "100574852",
+            "1130765454": "100584822",
+            "1130765456": "100584823",
+            "1130785344": "100600244"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "i5-1035G1 已下架": "1130690954",
+            "i5-1035G1 粉 已下架": "1130690958",
+            "i5-1035G1 金 已下架": "1130690957",
+            "i5-1035G7 512GSSD粉": "1130748069",
+            "i5-1035G7 512GSSD银": "1130759447",
+            "i5-8265U 已下架": "1130664994",
+            "pagType": "1",
+            "skuId": "1130690960",
+            "十代 8G 1TGSSD 粉": "1130691061",
+            "十代 8G 1TGSSD 金": "1130690960",
+            "十代 8G 1TGSSD 银": "1130690959",
+            "十代i7 8G 1TBSSD 粉": "1130691065",
+            "十代i7 8G 1TBSSD 金": "1130691063",
+            "十代i7 8G 1TBSSD 银": "1130691062"
+        },
+        "brand": "惠普(HP)",
+        "brandCode": "00109",
+        "brandId": "10000125",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140134086-1130690960.html",
+        "energyState": 0,
+        "gomePrice": 5649,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130690960.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1yPVyBsDT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130690960.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1lGLyB_AT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130690960.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1VIbyBXVv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130690960.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1rGWyBgDT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130690960.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1gPAyBjhT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201909/cat10000092/1130690960.html",
+        "name": "惠普(HP)星14-ce3030TX 14英寸轻薄笔记本电脑(i5-1035G1 8G 1TB MX250 2G FHD IPS)金",
+        "price": 0,
+        "productId": "9140134086",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "十代 8G 1TGSSD 金",
+                        "id": "58b02be0474f4396ad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1yPVyBsDT1RCvBVdK",
+                        "target": "cur",
+                        "title": "十代 8G 1TGSSD 金",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "十代 8G 1TGSSD 粉",
+                        "id": "28f4ea1ece2a401685",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1XTxyBCET1RCvBVdK",
+                        "title": "十代 8G 1TGSSD 粉",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "十代 8G 1TGSSD 银",
+                        "id": "74d3114a1b9f4c9297",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1hvLyBQdT1RCvBVdK",
+                        "title": "十代 8G 1TGSSD 银",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "i5-1035G1 已下架",
+                        "id": "3a46207214f244aaad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1tbdXBXdv1RCvBVdK",
+                        "title": "i5-1035G1 已下架",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "i5-1035G1 金 已下架",
+                        "id": "7e71beb3c0734f778d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1W_LXB_Kv1RCvBVdK",
+                        "title": "i5-1035G1 金 已下架",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "i5-1035G1 粉 已下架",
+                        "id": "3082e12be28a4edaa6",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1jQhXBXVT1RCvBVdK",
+                        "title": "i5-1035G1 粉 已下架",
+                        "weight": "6"
+                    },
+                    {
+                        "alt": "十代i7 8G 1TBSSD 银",
+                        "id": "10486e31291f428ebd",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1mGAyBjxT1RCvBVdK",
+                        "title": "十代i7 8G 1TBSSD 银",
+                        "weight": "7"
+                    },
+                    {
+                        "alt": "十代i7 8G 1TBSSD 金",
+                        "id": "a4584371e93b43d08e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KexyBXhT1RCvBVdK",
+                        "title": "十代i7 8G 1TBSSD 金",
+                        "weight": "8"
+                    },
+                    {
+                        "alt": "十代i7 8G 1TBSSD 粉",
+                        "id": "f498664939ad4d73a1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1twJyB7WT1RCvBVdK",
+                        "title": "十代i7 8G 1TBSSD 粉",
+                        "weight": "9"
+                    },
+                    {
+                        "alt": "i5-1035G7 512GSSD银",
+                        "id": "2dd0e4d6adc14f64af",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KUAyBXZT1RCvBVdK",
+                        "title": "i5-1035G7 512GSSD银",
+                        "weight": "10"
+                    },
+                    {
+                        "alt": "i5-1035G7 512GSSD粉",
+                        "id": "77ea48f76b0b4f6e98",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1OUAyB4VT1RCvBVdK",
+                        "title": "i5-1035G7 512GSSD粉",
+                        "weight": "11"
+                    },
+                    {
+                        "alt": "i5-8265U 已下架",
+                        "id": "21b0c6a5a0134b3cb2",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1m7EXBjhv1RCvBVdK",
+                        "title": "i5-8265U 已下架",
+                        "weight": "12"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130690960",
+        "skuBlackList": false,
+        "skuId": "1130690960",
+        "skuNo": "100556219",
+        "skuNoMap": {
+            "1130664994": "100533967",
+            "1130690954": "100556220",
+            "1130690957": "100558092",
+            "1130690958": "100556217",
+            "1130690959": "100556218",
+            "1130690960": "100556219",
+            "1130691061": "100556215",
+            "1130691062": "100556214",
+            "1130691063": "100556221",
+            "1130691065": "100556216",
+            "1130748069": "100579980",
+            "1130759447": "100581093"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    }
+]

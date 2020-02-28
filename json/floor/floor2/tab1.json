@@ -1,0 +1,1507 @@
+[
+    {
+        "affixAttr": {
+            "AMDR58G256G银": "1130660112",
+            "I5-8265U256固态银": "1130666020",
+            "coo8Sign": "true",
+            "i5-8265U MX2502G": "1130715523",
+            "i5-8265U256G2G独显": "1130678294",
+            "i5-8265U256G固态红": "1130590048",
+            "i5-8265U256G固态银": "1130572796",
+            "i5-8265U256G银": "1130660111",
+            "i5-8265U2G独显红": "1130593985",
+            "i5-8265U2G独显银": "1130593986",
+            "i5-8265U8G256G紫": "1130660110",
+            "i5-8265U8G512G银": "1130678293",
+            "pagType": "1",
+            "skuId": "1130705495",
+            "十代i5-10210U1TSSD": "1130724971",
+            "十代i5-10210U2G独显": "1130705494",
+            "十代i5-10210U512G": "1130705495",
+            "十代i5-10210U8G": "1130705496",
+            "十代i5-10210UMX250": "1130705493",
+            "十代i5-1035G1512G": "1130765454",
+            "十代i5-1035G1MX230": "1130765456",
+            "十代i7-10510U1TSSD": "1130785344"
+        },
+        "brand": "戴尔(DELL)",
+        "brandCode": "00388",
+        "brandId": "10000127",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140127528-1130705495.html",
+        "energyState": 0,
+        "gomePrice": 4999,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130705495.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1zQ_XBmdv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130705495.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1NjhXBQxT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130705495.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1j1JXBjZT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130705495.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1euKXB_Dv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140127528-1130705495.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1GrhXBQbT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201909/cat10000092/1130705495.html",
+        "name": "戴尔（DELL）灵越5000 fit 14英寸英特尔酷睿i5高性能轻薄窄边框笔记本电脑(十代i5-10210U 8G 512G PCIE)银",
+        "price": 0,
+        "productId": "9140127528",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "i5-8265U256G固态红",
+                        "id": "b2e39ac5f0774046b5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1H6WsBXxv1RCvBVdK",
+                        "title": "i5-8265U/256G固态/红",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "i5-8265U256G固态银",
+                        "id": "5075ba131a7a400d8a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1dC__B7Wv1RCvBVdK",
+                        "title": "i5-8265U/256G固态/银",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "i5-8265U2G独显红",
+                        "id": "f3d5e16e04be42bb86",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KzWjB5bT1RCvBVdK",
+                        "title": "i5-8265U/2G独显/红",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "i5-8265U2G独显银",
+                        "id": "9ba6ba3aa8e245c2b3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1rmKgBCh_1RCvBVdK",
+                        "title": "i5-8265U/2G独显/银",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "i5-8265U8G256G紫",
+                        "id": "22e44c619eda425a97",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1LfWQBC__1RCvBVdK",
+                        "title": "i5-8265U/8G/256G/紫",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "i5-8265U256G银",
+                        "id": "ad454c3a56ac4d53b0",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1RrJQBKA_1RCvBVdK",
+                        "title": "i5-8265U/256G/银",
+                        "weight": "6"
+                    },
+                    {
+                        "alt": "AMDR58G256G银",
+                        "id": "0e3383cbb7e248348f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1sZZsBsZv1RCvBVdK",
+                        "title": "AMDR5/8G/256G/银",
+                        "weight": "7"
+                    },
+                    {
+                        "alt": "I5-8265U256固态银",
+                        "id": "abc499c067a4454cb3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1Xw_sBmbv1RCvBVdK",
+                        "title": "I5-8265U/256固态/银",
+                        "weight": "8"
+                    },
+                    {
+                        "alt": "i5-8265U8G512G银",
+                        "id": "8c3cbfa081a4454ba9",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1PYZsB_ZT1RCvBVdK",
+                        "title": "i5-8265U/8G/512G/银",
+                        "weight": "9"
+                    },
+                    {
+                        "alt": "i5-8265U256G2G独显",
+                        "id": "d2c3942f5682449cb9",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1WxEsBsDv1RCvBVdK",
+                        "title": "i5-8265U/256G/2G独显",
+                        "weight": "10"
+                    },
+                    {
+                        "alt": "十代i5-10210UMX250",
+                        "id": "698414b1f0254520a3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T121hXB_xT1RCvBVdK",
+                        "title": "十代i5-10210U/MX250",
+                        "weight": "11"
+                    },
+                    {
+                        "alt": "十代i5-10210U2G独显",
+                        "id": "387f888e93f648be98",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1pjhXBjxT1RCvBVdK",
+                        "title": "十代i5-10210U/2G独显",
+                        "weight": "12"
+                    },
+                    {
+                        "alt": "十代i5-10210U512G",
+                        "id": "6691ac0ee12f4549b6",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1zQ_XBmdv1RCvBVdK",
+                        "target": "cur",
+                        "title": "十代i5-10210U/512G",
+                        "weight": "13"
+                    },
+                    {
+                        "alt": "十代i5-10210U8G",
+                        "id": "b10782dd795a44f288",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1jlxXBCAT1RCvBVdK",
+                        "title": "十代i5-10210U/8G",
+                        "weight": "14"
+                    },
+                    {
+                        "alt": "i5-8265U MX2502G",
+                        "id": "ee31d78c9ba344679d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1dfLXBbbT1RCvBVdK",
+                        "title": "i5-8265U/ MX250/2G",
+                        "weight": "15"
+                    },
+                    {
+                        "alt": "十代i5-10210U1TSSD",
+                        "id": "a54fb44e140e463da3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1TqAXByJT1RCvBVdK",
+                        "title": "十代i5-10210U/1TSSD",
+                        "weight": "16"
+                    },
+                    {
+                        "alt": "十代i5-1035G1512G",
+                        "id": "00adca7e65e241cf93",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1aSVyBC_T1RCvBVdK",
+                        "title": "十代i5-1035G1/512G",
+                        "weight": "17"
+                    },
+                    {
+                        "alt": "十代i5-1035G1MX230",
+                        "id": "4c946ae9d4ba449d99",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1MSCyBjCT1RCvBVdK",
+                        "title": "十代i5-1035G1/MX230",
+                        "weight": "18"
+                    },
+                    {
+                        "alt": "十代i7-10510U1TSSD",
+                        "id": "1cf2c1d04eba424bb1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1ChACBbET1RCvBVdK",
+                        "title": "十代i7-10510U/1TSSD",
+                        "weight": "19"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130705495",
+        "skuBlackList": false,
+        "skuId": "1130705495",
+        "skuNo": "100564831",
+        "skuNoMap": {
+            "1130572796": "100484252",
+            "1130590048": "100484253",
+            "1130593985": "100484244",
+            "1130593986": "100484245",
+            "1130660110": "100540709",
+            "1130660111": "100540712",
+            "1130660112": "100540710",
+            "1130666020": "100541090",
+            "1130678293": "100545998",
+            "1130678294": "100545997",
+            "1130705493": "100564975",
+            "1130705494": "100564963",
+            "1130705495": "100564831",
+            "1130705496": "100564962",
+            "1130715523": "100566320",
+            "1130724971": "100574852",
+            "1130765454": "100584822",
+            "1130765456": "100584823",
+            "1130785344": "100600244"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "i5-10210U V4000傲腾": "1130766199",
+            "i5-10210U V5000": "1130761533",
+            "i5-8265U V4000": "1130686875",
+            "i5-8265U V5000": "1130761529",
+            "i7-10510U V4000傲腾": "1130766198",
+            "i7-10510U V5000": "1130766200",
+            "pagType": "1",
+            "skuId": "1130686875"
+        },
+        "brand": "华硕(ASUS)",
+        "brandCode": "00115",
+        "brandId": "10000154",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140152919-1130686875.html",
+        "energyState": 0,
+        "gomePrice": 4999,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152919-1130686875.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1bSdXBXLT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152919-1130686875.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1EPLXB7Ev1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152919-1130686875.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1NwEXBXKv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152919-1130686875.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1GSxXBKYT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152919-1130686875.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1nSDXByZT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/202001/cat10000092/1130686875.html",
+        "name": "华硕(ASUS) VivoBook14 14.0英寸轻薄笔记本电脑(i5-8265U 8G 512GSSD MX250 2G独显)银色(V4000)",
+        "price": 0,
+        "productId": "9140152919",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "i5-8265U V4000",
+                        "id": "d358992c04bb4ff5a0",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1bSdXBXLT1RCvBVdK",
+                        "target": "cur",
+                        "title": "i5-8265U V4000",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "i5-10210U V4000傲腾",
+                        "id": "037402de088b43d6a3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1bAKCBXVv1RCvBVdK",
+                        "title": "i5-10210U V4000傲腾",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "i7-10510U V4000傲腾",
+                        "id": "c2fa65cc983a4c6698",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1zJWCB7LT1RCvBVdK",
+                        "title": "i7-10510U V4000傲腾",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "i5-10210U V5000",
+                        "id": "99fa7f2deed5498487",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1s5_CBjWT1RCvBVdK",
+                        "title": "i5-10210U V5000",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "i7-10510U V5000",
+                        "id": "e007b1df02be4d63ba",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1MA_CBXKv1RCvBVdK",
+                        "title": "i7-10510U V5000",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "i5-8265U V5000",
+                        "id": "c368687da1b84285aa",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T10TZyByhT1RCvBVdK",
+                        "title": "i5-8265U V5000",
+                        "weight": "6"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130686875",
+        "skuBlackList": false,
+        "skuId": "1130686875",
+        "skuNo": "100553002",
+        "skuNoMap": {
+            "1130686875": "100553002",
+            "1130761529": "100582340",
+            "1130761533": "100582095",
+            "1130766198": "100596875",
+            "1130766199": "100596876",
+            "1130766200": "100596877"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "i5-1035G1 已下架": "1130690954",
+            "i5-1035G1 粉 已下架": "1130690958",
+            "i5-1035G1 金 已下架": "1130690957",
+            "i5-1035G7 512GSSD粉": "1130748069",
+            "i5-1035G7 512GSSD银": "1130759447",
+            "i5-8265U 已下架": "1130664994",
+            "pagType": "1",
+            "skuId": "1130691061",
+            "十代 8G 1TGSSD 粉": "1130691061",
+            "十代 8G 1TGSSD 金": "1130690960",
+            "十代 8G 1TGSSD 银": "1130690959",
+            "十代i7 8G 1TBSSD 粉": "1130691065",
+            "十代i7 8G 1TBSSD 金": "1130691063",
+            "十代i7 8G 1TBSSD 银": "1130691062"
+        },
+        "brand": "惠普(HP)",
+        "brandCode": "00109",
+        "brandId": "10000125",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140134086-1130691061.html",
+        "energyState": 0,
+        "gomePrice": 5649,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130691061.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1XTxyBCET1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130691061.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1CTZyBXxT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130691061.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1jwJyBmbT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130691061.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1IG_yBCJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140134086-1130691061.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T13wxyBXWT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201909/cat10000092/1130691061.html",
+        "name": "惠普(HP)星14-ce3031TX 14英寸轻薄笔记本电脑(i5-1035G1 8G 1TB MX250 2G FHD IPS)粉",
+        "price": 0,
+        "productId": "9140134086",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "十代 8G 1TGSSD 金",
+                        "id": "58b02be0474f4396ad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1yPVyBsDT1RCvBVdK",
+                        "title": "十代 8G 1TGSSD 金",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "十代 8G 1TGSSD 粉",
+                        "id": "28f4ea1ece2a401685",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1XTxyBCET1RCvBVdK",
+                        "target": "cur",
+                        "title": "十代 8G 1TGSSD 粉",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "十代 8G 1TGSSD 银",
+                        "id": "74d3114a1b9f4c9297",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1hvLyBQdT1RCvBVdK",
+                        "title": "十代 8G 1TGSSD 银",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "i5-1035G1 已下架",
+                        "id": "3a46207214f244aaad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1tbdXBXdv1RCvBVdK",
+                        "title": "i5-1035G1 已下架",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "i5-1035G1 金 已下架",
+                        "id": "7e71beb3c0734f778d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1W_LXB_Kv1RCvBVdK",
+                        "title": "i5-1035G1 金 已下架",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "i5-1035G1 粉 已下架",
+                        "id": "3082e12be28a4edaa6",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1jQhXBXVT1RCvBVdK",
+                        "title": "i5-1035G1 粉 已下架",
+                        "weight": "6"
+                    },
+                    {
+                        "alt": "十代i7 8G 1TBSSD 银",
+                        "id": "10486e31291f428ebd",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1mGAyBjxT1RCvBVdK",
+                        "title": "十代i7 8G 1TBSSD 银",
+                        "weight": "7"
+                    },
+                    {
+                        "alt": "十代i7 8G 1TBSSD 金",
+                        "id": "a4584371e93b43d08e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KexyBXhT1RCvBVdK",
+                        "title": "十代i7 8G 1TBSSD 金",
+                        "weight": "8"
+                    },
+                    {
+                        "alt": "十代i7 8G 1TBSSD 粉",
+                        "id": "f498664939ad4d73a1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1twJyB7WT1RCvBVdK",
+                        "title": "十代i7 8G 1TBSSD 粉",
+                        "weight": "9"
+                    },
+                    {
+                        "alt": "i5-1035G7 512GSSD银",
+                        "id": "2dd0e4d6adc14f64af",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1KUAyBXZT1RCvBVdK",
+                        "title": "i5-1035G7 512GSSD银",
+                        "weight": "10"
+                    },
+                    {
+                        "alt": "i5-1035G7 512GSSD粉",
+                        "id": "77ea48f76b0b4f6e98",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1OUAyB4VT1RCvBVdK",
+                        "title": "i5-1035G7 512GSSD粉",
+                        "weight": "11"
+                    },
+                    {
+                        "alt": "i5-8265U 已下架",
+                        "id": "21b0c6a5a0134b3cb2",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1m7EXBjhv1RCvBVdK",
+                        "title": "i5-8265U 已下架",
+                        "weight": "12"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC01",
+        "sku": "1130691061",
+        "skuBlackList": false,
+        "skuId": "1130691061",
+        "skuNo": "100556215",
+        "skuNoMap": {
+            "1130664994": "100533967",
+            "1130690954": "100556220",
+            "1130690957": "100558092",
+            "1130690958": "100556217",
+            "1130690959": "100556218",
+            "1130690960": "100556219",
+            "1130691061": "100556215",
+            "1130691062": "100556214",
+            "1130691063": "100556221",
+            "1130691065": "100556216",
+            "1130748069": "100579980",
+            "1130759447": "100581093"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "128GWIFI版幻影蓝": "1130714713",
+            "128GWIFI版香槟金": "1130664542",
+            "128G全网通幻影红": "1130701571",
+            "128G全网通幻影蓝": "1130701570",
+            "128G全网通香槟金": "1130664543",
+            "64G全网通香槟金": "1130675580",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130701571"
+        },
+        "brand": "华为(HUAWEI)",
+        "brandCode": "00818",
+        "brandId": "10000084",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140143119-1130701571.html",
+        "energyState": 0,
+        "gomePrice": 2799,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143119-1130701571.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1WMDXBv_T1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143119-1130701571.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1X_YXB_hv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143119-1130701571.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1yLYXBT_v1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143119-1130701571.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1i__XB_YT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143119-1130701571.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1gLCXBCYv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143119-1130701571.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1s_bXB7bT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201909/desc0902-qq0194/1130701571.html",
+        "name": "华为(HUAWEI) M6 8.4英寸 平板电脑 游戏版 高能版（6G内存/128G存储 通话版)幻影红",
+        "price": 0,
+        "productId": "9140143119",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色版本",
+                "hidden": "false",
+                "salesNameNo": "6edba20d287c",
+                "skutions": [
+                    {
+                        "alt": "64G全网通香槟金",
+                        "id": "7e219a1a96f1401893",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1rhZsB5Av1RCvBVdK",
+                        "title": "64G/全网通/香槟金",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "128GWIFI版香槟金",
+                        "id": "28cc815ac0984b878b",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T18_YsB7ZT1RCvBVdK",
+                        "title": "128G/WIFI版/香槟金",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "128G全网通香槟金",
+                        "id": "a27e5e4fa08d480593",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1mehQBXK_1RCvBVdK",
+                        "title": "128G/全网通/香槟金",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "128GWIFI版幻影蓝",
+                        "id": "725bbe0adc684ee4b5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1sRxyBKhT1RCvBVdK",
+                        "title": "128G/WIFI版/幻影蓝",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "128G全网通幻影蓝",
+                        "id": "48a034d97f504780b5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1nLAXByVT1RCvBVdK",
+                        "title": "128G/全网通/幻影蓝",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "128G全网通幻影红",
+                        "id": "202af0c3e6c34e0d8e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1WMDXBv_T1RCvBVdK",
+                        "target": "cur",
+                        "title": "128G/全网通/幻影红",
+                        "weight": "6"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC03",
+        "sku": "1130701571",
+        "skuBlackList": false,
+        "skuId": "1130701571",
+        "skuNo": "100554765",
+        "skuNoMap": {
+            "1130664542": "100542757",
+            "1130664543": "100542758",
+            "1130675580": "100542756",
+            "1130701570": "100554767",
+            "1130701571": "100554765",
+            "1130714713": "100576481"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "1TB&橙": "1130041329",
+            "1TB&紫": "1130041564",
+            "1TB&红": "1130040383",
+            "1TB&黑": "1130040382",
+            "2TB&橙": "1130041804",
+            "2TB&紫": "1130040503",
+            "2TB&红": "1130037186",
+            "2TB&黑": "1130037303",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130037303"
+        },
+        "brand": "艾比格特",
+        "brandCode": "43915",
+        "brandId": "300005201",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140037721-1130037303.html",
+        "energyState": 0,
+        "gomePrice": 1399,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140037721-1130037303.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1bmVvBQxg1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140037721-1130037303.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1ScWvB_bg1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140037721-1130037303.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T11mVvBQYQ1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140037721-1130037303.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1T0xvB4JT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140037721-1130037303.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1b2hvBvYT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201708/desc0801xyy-000000001/100448210.html",
+        "name": "艾比格特(IBIG Stor) IBSP6291 旗舰版 无线 移动硬盘 2TB 远程传输 黑",
+        "price": 0,
+        "productId": "9140037721",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "false",
+                "chinesename": "规格",
+                "hidden": "false",
+                "salesNameNo": "afd32a4d28b2",
+                "skutions": [
+                    {
+                        "alt": "1TB",
+                        "id": "7454dbe63569410b86",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "1TB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "2TB",
+                        "id": "0aeacf26e96943b1ab",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "2TB",
+                        "weight": "2"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "黑",
+                        "id": "e93d5f8e5cec4c548f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1DUAvBCZQ1RCvBVdK",
+                        "target": "cur",
+                        "title": "黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "红",
+                        "id": "a978f9d80c76477da5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1xUWvBg_g1RCvBVdK",
+                        "title": "红",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "橙",
+                        "id": "8cd1ef2ec4e447f685",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1F2ZvByCT1RCvBVdK",
+                        "title": "橙",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "紫",
+                        "id": "d264df7a00a14e0284",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1AmAvBKhj1RCvBVdK",
+                        "title": "紫",
+                        "weight": "4"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AC04",
+        "sku": "1130037303",
+        "skuBlackList": false,
+        "skuId": "1130037303",
+        "skuNo": "100448210",
+        "skuNoMap": {
+            "1130037186": "100449332",
+            "1130037303": "100448210",
+            "1130040382": "100449335",
+            "1130040383": "100449336",
+            "1130040503": "100449334",
+            "1130041329": "100449337",
+            "1130041564": "100448211",
+            "1130041804": "100449333"
+        },
+        "skuType": "ZSP",
+        "stats": 2,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "华为智慧屏 75英寸",
+            "pagType": "1",
+            "skuId": "1130770925",
+            "摩卡金": "1130778515",
+            "星际黑": "1130770925"
+        },
+        "brand": "华为(HUAWEI)",
+        "brandCode": "00818",
+        "brandId": "10000084",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140187044-1130770925.html",
+        "energyState": 0,
+        "gomePrice": 12999,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140187044-1130770925.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1J5JCBKLT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140187044-1130770925.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1XoJCBmKT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140187044-1130770925.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1NVACBXVv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140187044-1130770925.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1boECBKdT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140187044-1130770925.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1nVKCBsZv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201912/cat10000049/1130770925.html",
+        "name": "华为智慧屏 75英寸",
+        "price": 0,
+        "productId": "9140187044",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "星际黑",
+                        "id": "4563f1c4e02c4d2a85",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1J5JCBKLT1RCvBVdK",
+                        "target": "cur",
+                        "title": "星际黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "摩卡金",
+                        "id": "e1935fddf5c049f496",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1MVdCBsdv1RCvBVdK",
+                        "title": "摩卡金",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB05",
+        "sku": "1130770925",
+        "skuBlackList": false,
+        "skuId": "1130770925",
+        "skuNo": "100593939",
+        "skuNoMap": {
+            "1130770925": "100593939",
+            "1130778515": "100593936"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "华为智能音箱Sound X",
+            "pagType": "1",
+            "skuId": "1130773241"
+        },
+        "brand": "华为(HUAWEI)",
+        "brandCode": "00818",
+        "brandId": "10000084",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140183928-1130773241.html",
+        "energyState": 0,
+        "gomePrice": 1999,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1KYKyB5C_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1dbWyBCbv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1UtxCB4xT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1LYAyBTZv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1AtxCBCxT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1lRECBjVT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1EbKyBKD_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1pRJCBj_T1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1qRxCBCCT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140183928-1130773241.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1AYDyBbd_1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000159/1130773241.html",
+        "name": "华为智能音箱Sound X",
+        "price": 0,
+        "productId": "9140183928",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB05",
+        "sku": "1130773241",
+        "skuBlackList": false,
+        "skuId": "1130773241",
+        "skuNo": "100589663",
+        "skuNoMap": {
+            "1130773241": "100589663"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "2019年新品": "1130770019",
+            "99元经济款": "1130765897",
+            "coo8Sign": "true",
+            "pagContent": "米家声波电动牙刷T300",
+            "pagType": "1",
+            "skuId": "1130765897",
+            "入门款": "1130765898",
+            "声波电动": "1130561164"
+        },
+        "brand": "小米(MI)",
+        "brandCode": "03870",
+        "brandId": "10007234",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140059322-1130765897.html",
+        "energyState": 0,
+        "gomePrice": 99,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140059322-1130765897.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1I3_yBTDv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140059322-1130765897.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1CBVyBbbT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140059322-1130765897.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1isVyBb_T1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140059322-1130765897.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1Y3AyByxv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140059322-1130765897.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1CBbyB5Wv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat20805701/1130765897.html",
+        "name": "米家声波电动牙刷T300",
+        "price": 0,
+        "productId": "9140059322",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "声波电动",
+                        "id": "990a2251a9ae457f83",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1FrCsBCKv1RCvBVdK",
+                        "title": "声波电动",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "2019年新品",
+                        "id": "01622a59804d48de9c",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1AsxyB5AT1RCvBVdK",
+                        "title": "2019年新品",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "99元经济款",
+                        "id": "b37a54422f4b490da1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1I3_yBTDv1RCvBVdK",
+                        "target": "cur",
+                        "title": "99元经济款",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "入门款",
+                        "id": "6c95db44e23548009f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1H3_yBTxv1RCvBVdK",
+                        "title": "入门款",
+                        "weight": "4"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB05",
+        "sku": "1130765897",
+        "skuBlackList": false,
+        "skuId": "1130765897",
+        "skuNo": "100589423",
+        "skuNoMap": {
+            "1130561164": "100465323",
+            "1130765897": "100589423",
+            "1130765898": "100589422",
+            "1130770019": "100587574"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "IH压力3L": "1130548246",
+            "IH智能3L": "1130548245",
+            "IH智能4L": "1130548249",
+            "coo8Sign": "true",
+            "pagContent": "米家小饭煲1.6L",
+            "pagType": "1",
+            "skuId": "1130770018",
+            "电饭煲4L": "1130735280",
+            "米家小饭煲": "1130770018"
+        },
+        "brand": "小米(MI)",
+        "brandCode": "03870",
+        "brandId": "10007234",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140055524-1130770018.html",
+        "energyState": 0,
+        "gomePrice": 199,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140055524-1130770018.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T13sJyB_hT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140055524-1130770018.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1MsxyB7ZT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140055524-1130770018.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1ssJyBTVT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140055524-1130770018.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1BjbyBsEv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140055524-1130770018.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1sj_yBQJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140055524-1130770018.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T131byBjLv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140055524-1130770018.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1MqEyBjdT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat20805701/1130770018.html",
+        "name": "米家小饭煲1.6L",
+        "price": 0,
+        "productId": "9140055524",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "IH智能4L",
+                        "id": "acc8da02987c40ba86",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1fodbBXKT1RCvBVdK",
+                        "title": "IH智能4L",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "IH智能3L",
+                        "id": "da49783965514badae",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1mvDQBXE_1RCvBVdK",
+                        "title": "IH智能3L",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "IH压力3L",
+                        "id": "51712a7e7d9c4c83a2",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1r.dgB4Ev1RCvBVdK",
+                        "title": "IH压力3L",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "米家小饭煲",
+                        "id": "b8743a9db60f4c91ac",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T13sJyB_hT1RCvBVdK",
+                        "target": "cur",
+                        "title": "米家小饭煲",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "电饭煲4L",
+                        "id": "c874269f405a46f590",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T12BCyBbVv1RCvBVdK",
+                        "title": "电饭煲4L",
+                        "weight": "5"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB05",
+        "sku": "1130770018",
+        "skuBlackList": false,
+        "skuId": "1130770018",
+        "skuNo": "100587573",
+        "skuNoMap": {
+            "1130548245": "100458878",
+            "1130548246": "100458877",
+            "1130548249": "100458879",
+            "1130735280": "100587666",
+            "1130770018": "100587573"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "佳能数码相机G7 X Mark III",
+            "pagType": "1",
+            "skuId": "1130705484"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140154498-1130705484.html",
+        "energyState": 0,
+        "gomePrice": 4999,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154498-1130705484.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1cZdyByhT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154498-1130705484.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1G4LyBgYv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154498-1130705484.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1Z8byBK__1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154498-1130705484.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1hpWyB5hv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154498-1130705484.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1r8byB7L_1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201910/cat10000144/1130705484.html",
+        "name": "佳能数码相机G7 X Mark III",
+        "price": 0,
+        "productId": "9140154498",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130705484",
+        "skuBlackList": false,
+        "skuId": "1130705484",
+        "skuNo": "100578892",
+        "skuNoMap": {
+            "1130705484": "100578892"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    }
+]

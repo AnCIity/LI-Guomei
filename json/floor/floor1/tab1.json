@@ -1,0 +1,1814 @@
+[
+    {
+        "affixAttr": {
+            "Note10&密斯白": "1130688687",
+            "Note10&莫奈彩": "1130688689",
+            "Note10&麦昆黑": "1130688688",
+            "Note10＋&密斯白": "1130688690",
+            "Note10＋&莫奈彩": "1130688693",
+            "Note10＋&麦昆黑": "1130688691",
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130688689"
+        },
+        "brand": "三星(SAMSUNG)",
+        "brandCode": "00017",
+        "brandId": "10000301",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140157642-1130688689.html",
+        "energyState": 0,
+        "gomePrice": 5669,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140157642-1130688689.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1FdEXBsEv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140157642-1130688689.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1M2WXBQKv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140157642-1130688689.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T12dZXBKAT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140157642-1130688689.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1UKhXBmCv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140157642-1130688689.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1MAZXBXxv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000070/1130688689.html",
+        "name": "三星Note10 256G莫奈彩",
+        "price": 0,
+        "productId": "9140157642",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "Note10",
+                        "id": "0f9d26c0acfe46af8d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1FdEXBsEv1RCvBVdK",
+                        "target": "cur",
+                        "title": "Note10",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "Note10＋",
+                        "id": "1ee817c9b60b4ca992",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1UdCXBCDT1RCvBVdK",
+                        "title": "Note10＋",
+                        "weight": "2"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "密斯白",
+                        "id": "852c10d1dad64c5f9d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "密斯白",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "麦昆黑",
+                        "id": "f2b0f1a20af949edbe",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "麦昆黑",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "莫奈彩",
+                        "id": "8ec67b570f734ae4bb",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "莫奈彩",
+                        "weight": "3"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130688689",
+        "skuBlackList": false,
+        "skuId": "1130688689",
+        "skuNo": "100551776",
+        "skuNoMap": {
+            "1130688687": "100551773",
+            "1130688688": "100551777",
+            "1130688689": "100551776",
+            "1130688690": "100551774",
+            "1130688691": "100551775",
+            "1130688693": "100551778"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130633024",
+            "幻彩粉&6GB128GB&全网通": "1130674510",
+            "幻影黑&6GB128GB&全网通": "1130674508",
+            "幻影黑&8GB128GB&全网通": "1130633028",
+            "幻影黑&8GB128GB&移动": "1130680836",
+            "极光色&4GB64GB&全网通": "1130685046",
+            "极光色&6GB128GB&全网通": "1130674509",
+            "极光色&6GB64GB&全网通": "1130674507",
+            "极光色&8GB128GB&全网通": "1130679863",
+            "极光色&8GB128GB&移动": "1130680837",
+            "极夜黑&4GB64GB&全网通": "1130633024",
+            "极夜黑&6GB128GB&全网通": "1130633027",
+            "极夜黑&6GB64GB&全网通": "1130633026"
+        },
+        "brand": "VIVO",
+        "brandCode": "04750",
+        "brandId": "71912131",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140145830-1130633024.html",
+        "energyState": 0,
+        "gomePrice": 1298,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145830-1130633024.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1uJLsBvAT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145830-1130633024.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1jVZgB7Y_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145830-1130633024.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1rZKsByYv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145830-1130633024.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1QHJQB_A_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145830-1130633024.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1HOVvBmbX1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145830-1130633024.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1dCVQBjWv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201907/desc20190706vivo/1130633024.html",
+        "name": "vivo Z5x 64G 极夜黑",
+        "price": 0,
+        "productId": "9140145830",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "false",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "极夜黑",
+                        "id": "5bfa02af628a4be78a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "极夜黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "幻影黑",
+                        "id": "d01ac5cafabc403c9f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "幻影黑",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "极光色",
+                        "id": "54aa93c807e245839f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "极光色",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "幻彩粉",
+                        "id": "4b1ad35e09bc451f83",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "幻彩粉",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "容量",
+                "hidden": "false",
+                "salesNameNo": "c0f4f19debb3",
+                "skutions": [
+                    {
+                        "alt": "4GB64GB",
+                        "id": "88a6a4f1d00a41d6bd",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "4GB+64GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "6GB64GB",
+                        "id": "62c738eed55f42bb9b",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "6GB+64GB",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "6GB128GB",
+                        "id": "c93f3ebbf1eb4d4584",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "6GB+128GB",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "8GB128GB",
+                        "id": "e9339b4c2e8047adb6",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8GB+128GB",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "网络制式",
+                "hidden": "false",
+                "salesNameNo": "5532751d0ed5",
+                "skutions": [
+                    {
+                        "alt": "全网通",
+                        "id": "1b53eb4f15b04751a1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "全网通",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "移动",
+                        "id": "7d385cf1e77846d6ad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "移动",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130633024",
+        "skuBlackList": false,
+        "skuId": "1130633024",
+        "skuNo": "100540113",
+        "skuNoMap": {
+            "1130633024": "100540113",
+            "1130633026": "100539371",
+            "1130633027": "100539370",
+            "1130633028": "100540112",
+            "1130674507": "100547644",
+            "1130674508": "100547551",
+            "1130674509": "100547645",
+            "1130674510": "100547646",
+            "1130679863": "100542317",
+            "1130680836": "100543033",
+            "1130680837": "100543032",
+            "1130685046": "100547642"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130718692",
+            "仙踪绿&4GB64GB": "1130754699",
+            "宝石蓝&4GB64GB": "1130754700",
+            "曜石黑&6GB128GB": "1130718681",
+            "梦幻蓝&6GB128GB": "1130718694",
+            "皓月白&6GB128GB": "1130718692",
+            "碳岩灰&4GB64GB": "1130760501"
+        },
+        "brand": "小米(MI)",
+        "brandCode": "03870",
+        "brandId": "10007234",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140171814-1130718692.html",
+        "energyState": 0,
+        "gomePrice": 1299,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140171814-1130718692.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1QjVXBb__1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140171814-1130718692.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1ZrAXBg__1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140171814-1130718692.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1VBDXBmAT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140171814-1130718692.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1XBYXB4VT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140171814-1130718692.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T13sZXBjhT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000070/1130718692.html",
+        "name": "Redmi Note8 128G皓月白",
+        "price": 0,
+        "productId": "9140171814",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "false",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "曜石黑",
+                        "id": "6b822e6fb5244106ab",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "曜石黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "皓月白",
+                        "id": "6b4a743dcc934c1a92",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "皓月白",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "梦幻蓝",
+                        "id": "75eb839c170445d39c",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "梦幻蓝",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "仙踪绿",
+                        "id": "60e71d4ce1cb4b02a3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "仙踪绿",
+                        "weight": "4"
+                    },
+                    {
+                        "alt": "宝石蓝",
+                        "id": "75e707e8ff314247aa",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "宝石蓝",
+                        "weight": "5"
+                    },
+                    {
+                        "alt": "碳岩灰",
+                        "id": "ba80965b56cb42eeb7",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "碳岩灰",
+                        "weight": "6"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "6GB128GB",
+                        "id": "747ec2cf30e74c9ea9",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "6GB+128GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "4GB64GB",
+                        "id": "c5ea876438414d7ea3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "4GB+64GB",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130718692",
+        "skuBlackList": false,
+        "skuId": "1130718692",
+        "skuNo": "100572622",
+        "skuNoMap": {
+            "1130718681": "100572623",
+            "1130718692": "100572622",
+            "1130718694": "100572624",
+            "1130754699": "100578609",
+            "1130754700": "100578611",
+            "1130760501": "100578610"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130634596",
+            "星辰紫&6GB256GB&全网通": "1130667243",
+            "星辰紫&6GB256GB&移动全网通": "1130667252",
+            "星辰紫&8GB128GB&全网通": "1130634600",
+            "星辰紫&8GB128GB&移动全网通": "1130667249",
+            "极夜黑&6GB256GB&全网通": "1130667242",
+            "极夜黑&6GB256GB&移动全网通": "1130667251",
+            "极夜黑&8GB128GB&全网通": "1130634596",
+            "极夜黑&8GB128GB&移动全网通": "1130667248",
+            "珊瑚橙&6GB256GB&全网通": "1130667245",
+            "珊瑚橙&6GB256GB&移动全网通": "1130667255",
+            "珠贝白&6GB256GB&全网通": "1130667244",
+            "珠贝白&6GB256GB&移动全网通": "1130667253"
+        },
+        "brand": "欧珀(OPPO)",
+        "brandCode": "01135",
+        "brandId": "234608283",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140143039-1130634596.html",
+        "energyState": 0,
+        "gomePrice": 2199,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1gKLsB_AT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1aAbvBThs1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1cYCQBKZ_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1xPYsBvEv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1yyLsBgK_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1WGCsBbVT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1bJDsBsLv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1UP_sBChT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1c3AbBKVv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140143039-1130634596.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1.GdsB_WT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000070/1130634596.html",
+        "name": "OPPO RenoZ 128G 极夜黑",
+        "price": 0,
+        "productId": "9140143039",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "极夜黑",
+                        "id": "51ed8b6c86f94c9694",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1SI_sBXdT1RCvBVdK",
+                        "target": "cur",
+                        "title": "极夜黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "星辰紫",
+                        "id": "71e1ff118783444ab8",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1H4KsBCY_1RCvBVdK",
+                        "title": "星辰紫",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "珠贝白",
+                        "id": "4c7ab345caaf4cf482",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T16tbgB_K_1RCvBVdK",
+                        "title": "珠贝白",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "珊瑚橙",
+                        "id": "649c2e61dfbc44d796",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1ZPCsB4xv1RCvBVdK",
+                        "title": "珊瑚橙",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "机身内存",
+                "hidden": "false",
+                "salesNameNo": "6fcae58d9e66",
+                "skutions": [
+                    {
+                        "alt": "8GB128GB",
+                        "id": "d9a4a37878a748bbb5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "8GB+128GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "6GB256GB",
+                        "id": "a158e70e53854260b8",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "6GB+256GB",
+                        "weight": "2"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "全网通",
+                        "id": "80964d2722a64676bb",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "全网通",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "移动全网通",
+                        "id": "e9f606ea1fe94f9a97",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "移动全网通",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130634596",
+        "skuBlackList": false,
+        "skuId": "1130634596",
+        "skuNo": "100540752",
+        "skuNoMap": {
+            "1130634596": "100540752",
+            "1130634600": "100540747",
+            "1130667242": "100540745",
+            "1130667243": "100540743",
+            "1130667244": "100540749",
+            "1130667245": "100540751",
+            "1130667248": "100540742",
+            "1130667249": "100540679",
+            "1130667251": "100540680",
+            "1130667252": "100540750",
+            "1130667253": "100540746",
+            "1130667255": "100540744"
+        },
+        "skuType": "ZSP",
+        "stats": 2,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130704452",
+            "冰翡翠&8GB128GB": "1130707493",
+            "冰翡翠&8GB256GB": "1130763194",
+            "曜石黑&6GB64GB": "1130710236",
+            "电光灰&6GB64GB": "1130705460",
+            "电光灰&8GB128GB": "1130704452",
+            "电光灰&8GB256GB": "1130763183",
+            "贝母白&8GB128GB": "1130707494",
+            "贝母白&8GB256GB": "1130763187"
+        },
+        "brand": "小米(MI)",
+        "brandCode": "03870",
+        "brandId": "10007234",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140154036-1130704452.html",
+        "energyState": 0,
+        "gomePrice": 1599,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154036-1130704452.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1_sCXBbbT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154036-1130704452.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1csdXBQxv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154036-1130704452.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1IqxXBCh_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154036-1130704452.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1BsCXBC_v1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140154036-1130704452.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1d3VXBKVT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201908/cat10000070/1130704452_1.html",
+        "name": "Redmi Note8 Pro 128G 电光灰",
+        "price": 0,
+        "productId": "9140154036",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "false",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "电光灰",
+                        "id": "c80904c41d6146bea9",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "电光灰",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "曜石黑",
+                        "id": "0d04f92eade347bdae",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "曜石黑",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "冰翡翠",
+                        "id": "39244616bc8e46a4bf",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "冰翡翠",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "贝母白",
+                        "id": "4edf9a9fe7f34cc2a1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "贝母白",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "6GB64GB",
+                        "id": "936bab0ae569477b94",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "6GB+64GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "8GB128GB",
+                        "id": "24c40e129fb5409691",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "8GB+128GB",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "8GB256GB",
+                        "id": "fc79ee4d868c4e6690",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8GB+256GB",
+                        "weight": "3"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130704452",
+        "skuBlackList": false,
+        "skuId": "1130704452",
+        "skuNo": "100558693",
+        "skuNoMap": {
+            "1130704452": "100558693",
+            "1130705460": "100558222",
+            "1130707493": "100562013",
+            "1130707494": "100562012",
+            "1130710236": "100558223",
+            "1130763183": "100593701",
+            "1130763187": "100594453",
+            "1130763194": "100594452"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130675895",
+            "电光紫&6GB128GB&全网通": "1130675896",
+            "电光紫&8GB128GB&全网通": "1130642757",
+            "电光紫&8GB128GB&移动版": "1130683581",
+            "电光紫&8GB64GB&全网通": "1130675894",
+            "碳纤黑&6GB128GB&全网通": "1130675895",
+            "碳纤黑&6GB64GB&全网通": "1130675897",
+            "碳纤黑&8GB128GB&全网通": "1130642747",
+            "碳纤黑&8GB128GB&移动版": "1130642760",
+            "碳纤黑&8GB64GB&全网通": "1130675893"
+        },
+        "brand": "VIVO",
+        "brandCode": "04750",
+        "brandId": "71912131",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140145671-1130675895.html",
+        "energyState": 0,
+        "gomePrice": 1998,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145671-1130675895.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1klYsBgCv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145671-1130675895.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1O1LsB4JT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145671-1130675895.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1GjEsBmCv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145671-1130675895.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1A1VsBgxT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140145671-1130675895.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1iQ_sBCLT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000070/1130675895.html",
+        "name": "vivo iQOO Neo 128G 碳纤黑",
+        "price": 0,
+        "productId": "9140145671",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "false",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "碳纤黑",
+                        "id": "b2005fecb6b64c40be",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "碳纤黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "电光紫",
+                        "id": "2b82597e69bb4ef791",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "电光紫",
+                        "weight": "2"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "容量",
+                "hidden": "false",
+                "salesNameNo": "c0f4f19debb3",
+                "skutions": [
+                    {
+                        "alt": "6GB64GB",
+                        "id": "10fb15cc3faa4d9183",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "6GB+64GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "6GB128GB",
+                        "id": "c44734e826764e04b3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "6GB+128GB",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "8GB64GB",
+                        "id": "72b468c971dd4eafae",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8GB+64GB",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "8GB128GB",
+                        "id": "f486db5b5f0d45e8a1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8GB+128GB",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "全网通",
+                        "id": "86f06ec872c744c993",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "全网通",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "移动版",
+                        "id": "29b26e1d4b004db885",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "移动版",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130675895",
+        "skuBlackList": false,
+        "skuId": "1130675895",
+        "skuNo": "100544432",
+        "skuNoMap": {
+            "1130642747": "100544314",
+            "1130642757": "100544316",
+            "1130642760": "100544315",
+            "1130675893": "100544381",
+            "1130675894": "100544379",
+            "1130675895": "100544432",
+            "1130675896": "100544433",
+            "1130675897": "100544380",
+            "1130683581": "100544313"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130708541",
+            "蝶羽白&6GB128GB": "1130708547",
+            "蝶羽白&8GB128GB": "1130708548",
+            "蝶羽蓝&6GB128GB": "1130708544",
+            "蝶羽蓝&8GB128GB": "1130708546",
+            "蝶羽黑&6GB128GB": "1130708541",
+            "蝶羽黑&8GB128GB": "1130708543"
+        },
+        "brand": "荣耀",
+        "brandCode": "02585",
+        "brandId": "97912415",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140147418-1130708541.html",
+        "energyState": 0,
+        "gomePrice": 1899,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140147418-1130708541.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1QgZXBC_v1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140147418-1130708541.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1pnCXBT_T1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140147418-1130708541.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1dg_XB5YT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140147418-1130708541.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1AMZXB5Jv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140147418-1130708541.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1oMdXBCJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140147418-1130708541.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1undXBCdv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140147418-1130708541.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T129_XBCWT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000070/1130708541.html",
+        "name": "荣耀20S 128G蝶羽黑",
+        "price": 0,
+        "productId": "9140147418",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "蝶羽黑",
+                        "id": "1011eb38b62245d38d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T15n_XBXdT1RCvBVdK",
+                        "target": "cur",
+                        "title": "蝶羽黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "蝶羽蓝",
+                        "id": "027faaf128984ff0a2",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1X9ZXB5bv1RCvBVdK",
+                        "title": "蝶羽蓝",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "蝶羽白",
+                        "id": "06b9dba37ba84e9f92",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1QMKXB5AT1RCvBVdK",
+                        "title": "蝶羽白",
+                        "weight": "3"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "6GB128GB",
+                        "id": "029e9838bdc143fe88",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "6GB+128GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "8GB128GB",
+                        "id": "f5d7943df97e46279a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8GB+128GB",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130708541",
+        "skuBlackList": false,
+        "skuId": "1130708541",
+        "skuNo": "100554762",
+        "skuNoMap": {
+            "1130708541": "100554762",
+            "1130708543": "100554640",
+            "1130708544": "100554639",
+            "1130708546": "100554638",
+            "1130708547": "100554637",
+            "1130708548": "100554641"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130699454",
+            "天空之境&6GB128GB": "1130686861",
+            "天空之境&8GB128GB": "1130753536",
+            "幻夜黑&6GB128GB": "1130699458",
+            "幻夜黑&8GB128GB": "1130753534",
+            "翡冷翠&6GB128GB": "1130699454",
+            "翡冷翠&8GB128GB": "1130753523",
+            "赤茶橘&6GB128GB": "1130699459",
+            "赤茶橘&8GB128GB": "1130753535"
+        },
+        "brand": "华为(HUAWEI)",
+        "brandCode": "00818",
+        "brandId": "10000084",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140152908-1130699454.html",
+        "energyState": 0,
+        "gomePrice": 1699,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152908-1130699454.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T10DAXByxT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152908-1130699454.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1bDZXB_b_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152908-1130699454.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1R_AXB4JT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152908-1130699454.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1o__XBgET1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152908-1130699454.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1ULVXB5VT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152908-1130699454.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1whDXBXC_1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201908/desc20190823-wm10/1130699454.html",
+        "name": "华为畅享10 Plus 128G 翡冷翠",
+        "price": 0,
+        "productId": "9140152908",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "容量",
+                "hidden": "false",
+                "salesNameNo": "c0f4f19debb3",
+                "skutions": [
+                    {
+                        "alt": "翡冷翠",
+                        "id": "f26339343a4a424cb5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1n8WyBmWv1RCvBVdK",
+                        "target": "cur",
+                        "title": "翡冷翠",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "幻夜黑",
+                        "id": "92a5c69bb16a4255a5",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1HHWyBKbv1RCvBVdK",
+                        "title": "幻夜黑",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "赤茶橘",
+                        "id": "87fd73f9a2d34af9a8",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1iEZyBCAT1RCvBVdK",
+                        "title": "赤茶橘",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "天空之境",
+                        "id": "747c76eed27243629a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1gZxyBKxT1RCvBVdK",
+                        "title": "天空之境",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "6GB128GB",
+                        "id": "660a917ce42d4420bd",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "6GB+128GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "8GB128GB",
+                        "id": "509d7aedcf0e46379d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8GB+128GB",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130699454",
+        "skuBlackList": false,
+        "skuId": "1130699454",
+        "skuNo": "100554632",
+        "skuNoMap": {
+            "1130686861": "100552879",
+            "1130699454": "100554632",
+            "1130699458": "100554633",
+            "1130699459": "100552881",
+            "1130753523": "100578469",
+            "1130753534": "100578468",
+            "1130753535": "100578470",
+            "1130753536": "100578467"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130698972",
+            "勒芒蓝&12128&4G": "1130698970",
+            "勒芒蓝&12128&5G": "1130698965",
+            "勒芒蓝&12256&5G": "1130718206",
+            "勒芒蓝&8128&4G": "1130698973",
+            "勒芒蓝&8128&5G": "1130698968",
+            "勒芒蓝&8256&5G": "1130698966",
+            "幻影蓝&12128&4G": "1130698005",
+            "幻影蓝&12128&5G": "1130733268",
+            "幻影蓝&8256&5G": "1130698003",
+            "竞速黑&12128&4G": "1130698004",
+            "竞速黑&12128&5G": "1130698964",
+            "竞速黑&12256&5G": "1130718204",
+            "竞速黑&8128&4G": "1130698972",
+            "竞速黑&8128&5G": "1130698967",
+            "竞速黑&8256&5G": "1130698001"
+        },
+        "brand": "VIVO",
+        "brandCode": "04750",
+        "brandId": "71912131",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140152319-1130698972.html",
+        "energyState": 0,
+        "gomePrice": 2898,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152319-1130698972.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1YwhXByAT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152319-1130698972.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1IvAXBQWT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152319-1130698972.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T15GVXBsYT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152319-1130698972.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1sIbXBydv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140152319-1130698972.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T14PVXBsdT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000070/1130698972.html",
+        "name": "vivo iQOO Pro 128G",
+        "price": 0,
+        "productId": "9140152319",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "竞速黑",
+                        "id": "9476ac60cb9b438f8e",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1wBDXBj_T1RCvBVdK",
+                        "target": "cur",
+                        "title": "竞速黑",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "幻影蓝",
+                        "id": "09fadefa17634f71bc",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1.RxyBmdT1RCvBVdK",
+                        "title": "幻影蓝",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "勒芒蓝",
+                        "id": "9a976bc3297640d9ad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1DBxXBTZv1RCvBVdK",
+                        "title": "勒芒蓝",
+                        "weight": "3"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "机身内存",
+                "hidden": "false",
+                "salesNameNo": "6fcae58d9e66",
+                "skutions": [
+                    {
+                        "alt": "8256",
+                        "id": "86588985dc6142569a",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8+256",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "12128",
+                        "id": "8d5118a9e7794b3799",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "12+128",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "8128",
+                        "id": "1ec7e457fc1242a69b",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "8+128",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "12256",
+                        "id": "eb240721a62f419289",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "12+256",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "网络制式",
+                "hidden": "false",
+                "salesNameNo": "5532751d0ed5",
+                "skutions": [
+                    {
+                        "alt": "5G",
+                        "id": "f05fd9d2cd904d569b",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "5G",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "4G",
+                        "id": "de265eccb1404b56bc",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "4G",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130698972",
+        "skuBlackList": false,
+        "skuId": "1130698972",
+        "skuNo": "100552853",
+        "skuNoMap": {
+            "1130698001": "100552138",
+            "1130698003": "100552139",
+            "1130698004": "100552140",
+            "1130698005": "100552141",
+            "1130698964": "100552856",
+            "1130698965": "100552854",
+            "1130698966": "100552610",
+            "1130698967": "100552611",
+            "1130698968": "100552609",
+            "1130698970": "100552855",
+            "1130698972": "100552853",
+            "1130698973": "100552852",
+            "1130718204": "100574905",
+            "1130718206": "100574904",
+            "1130733268": "100576447"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130665212",
+            "冰岛白&8GB128GB": "1130665209",
+            "冰岛白&8GB256GB": "1130665213",
+            "幻夜黑&8GB128GB": "1130665207",
+            "幻夜黑&8GB256GB": "1130665212",
+            "幻影蓝&8GB128GB": "1130665205",
+            "幻影蓝&8GB256GB": "1130665210",
+            "蓝水翡翠&8GB128GB": "1130649230",
+            "蓝水翡翠&8GB256GB": "1130649473"
+        },
+        "brand": "荣耀",
+        "brandCode": "02585",
+        "brandId": "97912415",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140140475-1130665212.html",
+        "energyState": 0,
+        "gomePrice": 2499,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1GfDsBv_T1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1gfEsBsJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1ZQZsBgJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1NQJsBTD_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1diDsBghT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1IfDsB7xT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T19uDsB7ZT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1ZiCQB5Ev1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1hfZsBmZv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1IiZsBTJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1ETJsBKZv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140140475-1130665212.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1DiDsBvWT1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000070/1130665212.html",
+        "name": "荣耀20 256G 幻夜黑",
+        "price": 0,
+        "productId": "9140140475",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "幻影蓝",
+                        "id": "d0f90e64a47d4a898d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1LKCsBbbv1RCvBVdK",
+                        "title": "幻影蓝",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "幻夜黑",
+                        "id": "952d37153825422cb2",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1GfDsBv_T1RCvBVdK",
+                        "target": "cur",
+                        "title": "幻夜黑",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "冰岛白",
+                        "id": "bb221e303d8e4e9bad",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1VZZ_BCd_1RCvBVdK",
+                        "title": "冰岛白",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "蓝水翡翠",
+                        "id": "9c672f7bd13246cc97",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1VCWyB5Yv1RCvBVdK",
+                        "title": "蓝水翡翠",
+                        "weight": "4"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "8GB128GB",
+                        "id": "e6da03f07ef94fc2ae",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "8GB+128GB",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "8GB256GB",
+                        "id": "ec332fd1dd7c4320b8",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "8GB+256GB",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AA01",
+        "sku": "1130665212",
+        "skuBlackList": false,
+        "skuId": "1130665212",
+        "skuNo": "100539312",
+        "skuNoMap": {
+            "1130649230": "100546811",
+            "1130649473": "100546810",
+            "1130665205": "100539316",
+            "1130665207": "100539315",
+            "1130665209": "100539314",
+            "1130665210": "100539313",
+            "1130665212": "100539312",
+            "1130665213": "100538861"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    }
+]

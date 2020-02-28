@@ -1,0 +1,1019 @@
+[
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "佳能微单M6 Mark II(15-45镜头)",
+            "pagType": "1",
+            "skuId": "1130722769",
+            "银色&15-45镜头": "1130722890",
+            "银色&18-150镜头": "1130725321",
+            "黑色&15-45镜头": "1130722769",
+            "黑色&18-150镜头": "1130692422"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140168855-1130722769.html",
+        "energyState": 0,
+        "gomePrice": 6398,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140168855-1130722769.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1DWKyBXCT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140168855-1130722769.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1LWKyBXET1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140168855-1130722769.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1DxdyBsAT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140168855-1130722769.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1JBLyBm__1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140168855-1130722769.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T12bJyBjEv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140168855-1130722769.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1xxZyB4xv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201911/cat10000146/1130722769.html",
+        "name": "佳能微单M6 Mark II(15-45镜头)",
+        "price": 0,
+        "productId": "9140168855",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "银色",
+                        "id": "26af5ffebe0a4291b3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1ybZyBjVT1RCvBVdK",
+                        "title": "银色",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "黑色",
+                        "id": "9d5a2a640323464094",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1.YhyBgEv1RCvBVdK",
+                        "target": "cur",
+                        "title": "黑色",
+                        "weight": "2"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "15-45镜头",
+                        "id": "c45c15657b4b4915a3",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "15-45镜头",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "18-150镜头",
+                        "id": "5da739b6e6f240aa99",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "18-150镜头",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130722769",
+        "skuBlackList": false,
+        "skuId": "1130722769",
+        "skuNo": "100589649",
+        "skuNoMap": {
+            "1130692422": "100589109",
+            "1130722769": "100589649",
+            "1130722890": "100589658",
+            "1130725321": "100589828"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "24-105 IS II USM": "1130033669",
+            "24-105 IS STM套餐": "1130036225",
+            "24-704L套餐": "1130039882",
+            "coo8Sign": "true",
+            "pagContent": "佳能6D Mark II(24-105 f/4L IS II USM)",
+            "pagType": "1",
+            "skuId": "1130033669",
+            "机身": "1130036110"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140031381-1130033669.html",
+        "energyState": 0,
+        "gomePrice": 14698,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140031381-1130033669.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1p4VjBTVv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140031381-1130033669.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1FpVjBXCv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140031381-1130033669.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1uNZbBjKv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140031381-1130033669.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1r__QB_xv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140031381-1130033669.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1APCQBgWv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201901/desc0107-qq191/1130033669.html",
+        "name": "佳能6D Mark II(24-105 f/4L IS II USM)",
+        "price": 0,
+        "productId": "9140031381",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "24-105 IS II USM",
+                        "id": "df6701b580e047628b",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1p4VjBTVv1RCvBVdK",
+                        "target": "cur",
+                        "title": "24-105 IS II USM",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "机身",
+                        "id": "c8b2c00feb7146ac86",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1aD_QB_bT1RCvBVdK",
+                        "title": "机身",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "24-704L套餐",
+                        "id": "8dfd6da342ae453ea7",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T13pD_BKKv1RCvBVdK",
+                        "title": "24-70/4L套餐",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "24-105 IS STM套餐",
+                        "id": "c1513bddfcf54a0e8f",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1B6Y_Bjbv1RCvBVdK",
+                        "title": "24-105 IS STM套餐",
+                        "weight": "4"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130033669",
+        "skuBlackList": false,
+        "skuId": "1130033669",
+        "skuNo": "100442646",
+        "skuNoMap": {
+            "1130033669": "100442646",
+            "1130036110": "100448194",
+            "1130036225": "100448196",
+            "1130039882": "100448195"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "尼康单反机身D3500",
+            "pagType": "1",
+            "skuId": "1130629031"
+        },
+        "brand": "尼康",
+        "brandCode": "00383",
+        "brandId": "10000270",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140124547-1130629031.html",
+        "energyState": 0,
+        "gomePrice": 2658,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140124547-1130629031.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1pAE_Bmh_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140124547-1130629031.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1vgKbB7WT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140124547-1130629031.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1gkYQBTdv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140124547-1130629031.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs12.gomein.net.cn/T1uvhbBQLv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140124547-1130629031.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T11KK_BKCv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201812/desc1219-qq186/1130629031.html",
+        "name": "尼康单反机身D3500",
+        "price": 0,
+        "productId": "9140124547",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130629031",
+        "skuBlackList": false,
+        "skuId": "1130629031",
+        "skuNo": "100492855",
+        "skuNoMap": {
+            "1130629031": "100492855"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "佳能数码相机G9X Mark II",
+            "pagType": "1",
+            "skuId": "1130017828",
+            "银色": "1130017588",
+            "黑色": "1130017828"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140020681-1130017828.html",
+        "energyState": 0,
+        "gomePrice": 2798,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140020681-1130017828.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1NUAvB4d_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140020681-1130017828.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T11e_TBQb_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140020681-1130017828.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1hwdTBydb1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140020681-1130017828.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1AwDTBjDQ1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140020681-1130017828.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs.gomein.net.cn/T1PTDTBmdQ1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140020681-1130017828.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1USCTBjbj1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201704/desc0419wl-345/100431123.html",
+        "name": "佳能数码相机G9X Mark II",
+        "price": 0,
+        "productId": "9140020681",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "黑色",
+                        "id": "97f70e04b84e4368a071",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1NUAvB4d_1RCvBVdK",
+                        "target": "cur",
+                        "title": "黑色",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "银色",
+                        "id": "16e8e6355df94de09e2d",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1iUCvB_xb1RCvBVdK",
+                        "title": "银色",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130017828",
+        "skuBlackList": false,
+        "skuId": "1130017828",
+        "skuNo": "100431123",
+        "skuNoMap": {
+            "1130017588": "100431031",
+            "1130017828": "100431123"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1130013903"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140006773-1130013903.html",
+        "energyState": 0,
+        "gomePrice": 5299,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140006773-1130013903.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1CIWbBbJT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140006773-1130013903.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1pkdbBXKT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140006773-1130013903.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1HSKQByYv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140006773-1130013903.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1L9CQBbxv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140006773-1130013903.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1u9KQBbJT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140006773-1130013903.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1MFdjByK_1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201812/desc1210-qq185/1130013903.html",
+        "name": "佳能单反750D(18-55/55-250)",
+        "price": 0,
+        "productId": "9140006773",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130013903",
+        "skuBlackList": false,
+        "skuId": "1130013903",
+        "skuNo": "100325038",
+        "skuNoMap": {
+            "1130013903": "100325038"
+        },
+        "skuType": "ZSP",
+        "stats": 2,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "佳能单反200D II(18-55)",
+            "pagType": "5",
+            "skuId": "1130669913",
+            "白色": "1130661811",
+            "黑色": "1130669913"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 5,
+        "detailHref": "//item.gome.com.cn/9140149489-1130669913.html",
+        "energyState": 0,
+        "gomePrice": 4198,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149489-1130669913.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1yqb_BmZ_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149489-1130669913.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1W9bvBXZQ1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149489-1130669913.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1ddCsBgCT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149489-1130669913.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1JGWvBmKQ1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149489-1130669913.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1qsD_BvZ_1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201905/desc0520GH-01/1130669913.html",
+        "name": "佳能单反200D II(18-55)",
+        "price": 0,
+        "productId": "9140149489",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "黑色",
+                        "id": "5c95658a4950436fa1",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1yqb_BmZ_1RCvBVdK",
+                        "target": "cur",
+                        "title": "黑色",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "白色",
+                        "id": "ee049c1f906a4e63aa",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1wuWvBvh_1RCvBVdK",
+                        "title": "白色",
+                        "weight": "2"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130669913",
+        "skuBlackList": false,
+        "skuId": "1130669913",
+        "skuNo": "100538519",
+        "skuNoMap": {
+            "1130661811": "100538484",
+            "1130669913": "100538519"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagType": "1",
+            "skuId": "1123340942"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9134401231-1123340942.html",
+        "energyState": 0,
+        "gomePrice": 21298,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9134401231-1123340942.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1JFhbB_YT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9134401231-1123340942.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs1.gomein.net.cn/T1ZZVQBmCv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9134401231-1123340942.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1sfJQBjJv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9134401231-1123340942.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1EnYQBbxv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9134401231-1123340942.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1nYLQBgdv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9134401231-1123340942.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1hlJ_BvKv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201812/desc1210-qq185/1123340942.html",
+        "name": "佳能单反相机EOS5D MarkⅣ",
+        "price": 0,
+        "productId": "9134401231",
+        "productType": "smcp-prd",
+        "programId": "111111111",
+        "salesProperty": [],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1123340942",
+        "skuBlackList": false,
+        "skuId": "1123340942",
+        "skuNo": "100416795",
+        "skuNoMap": {
+            "1123340942": "100416795"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "templateId": "m10004",
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "索尼微单ILCE-7M3K",
+            "pagType": "1",
+            "skuId": "1130571521"
+        },
+        "brand": "索尼(SONY)",
+        "brandCode": "00020",
+        "brandId": "10002080",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140071523-1130571521.html",
+        "energyState": 0,
+        "gomePrice": 13899,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140071523-1130571521.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1bQWQBTbT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140071523-1130571521.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1huAbB4Av1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140071523-1130571521.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1BqC_Byh_1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140071523-1130571521.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1zJAbBbVT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140071523-1130571521.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T16aC_BQAb1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201804/cat10000146/1130571521_1.html",
+        "name": "索尼微单ILCE-7M3K",
+        "price": 0,
+        "productId": "9140071523",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130571521",
+        "skuBlackList": false,
+        "skuId": "1130571521",
+        "skuNo": "100468374",
+        "skuNoMap": {
+            "1130571521": "100468374"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "佳能微单M50(15-45)",
+            "pagType": "1",
+            "skuId": "1130563175",
+            "白色&15-45&55-200镜头": "1130571028",
+            "白色&15-45镜头": "1130563177",
+            "白色&18-150镜头": "1130571025",
+            "白色&机身": "1130563168",
+            "黑色&15-45&55-200镜头": "1130571027",
+            "黑色&15-45镜头": "1130563175",
+            "黑色&18-150镜头": "1130571023",
+            "黑色&机身": "1130570427"
+        },
+        "brand": "佳能(Canon)",
+        "brandCode": "00080",
+        "brandId": "10000109",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140072431-1130563175.html",
+        "energyState": 0,
+        "gomePrice": 4399,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1uiVbBQAT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1RgVQBX_v1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1ElWbBXYv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1KrZ_BvKv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs11.gomein.net.cn/T1DKVbBbAT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T12gVQBgxT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs13.gomein.net.cn/T1iZWbBXKT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140072431-1130563175.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs10.gomein.net.cn/T1Fld_Bv_v1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201812/desc1210-qq185/1130563175.html",
+        "name": "佳能微单M50(15-45)",
+        "price": 0,
+        "productId": "9140072431",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [
+            {
+                "booleanMainsale": "true",
+                "booleanPic": "true",
+                "chinesename": "颜色",
+                "hidden": "false",
+                "salesNameNo": "8ac55c9d2cf8",
+                "skutions": [
+                    {
+                        "alt": "黑色",
+                        "id": "7138bcf3e0524d1789",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1ltJsByVv1RCvBVdK",
+                        "target": "cur",
+                        "title": "黑色",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "白色",
+                        "id": "4216a2e791ff407090",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "src": "//gfs17.gomein.net.cn/T1rbxbBgVT1RCvBVdK",
+                        "title": "白色",
+                        "weight": "2"
+                    }
+                ]
+            },
+            {
+                "booleanMainsale": "false",
+                "booleanPic": "false",
+                "chinesename": "版本",
+                "hidden": "false",
+                "salesNameNo": "c80c62c4448d",
+                "skutions": [
+                    {
+                        "alt": "机身",
+                        "id": "a57d180e530c4a4480",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "机身",
+                        "weight": "1"
+                    },
+                    {
+                        "alt": "15-45镜头",
+                        "id": "39ab252bc90440deab",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "target": "cur",
+                        "title": "15-45镜头",
+                        "weight": "2"
+                    },
+                    {
+                        "alt": "18-150镜头",
+                        "id": "ca763b61c761453e87",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "18-150镜头",
+                        "weight": "3"
+                    },
+                    {
+                        "alt": "15-45&55-200镜头",
+                        "id": "f8371b25a34943989c",
+                        "imgOtherAttr": {},
+                        "linkOtherAttr": {},
+                        "title": "15-45&55-200镜头",
+                        "weight": "4"
+                    }
+                ]
+            }
+        ],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130563175",
+        "skuBlackList": false,
+        "skuId": "1130563175",
+        "skuNo": "100469026",
+        "skuNoMap": {
+            "1130563168": "100469126",
+            "1130563175": "100469026",
+            "1130563177": "100469045",
+            "1130570427": "100468611",
+            "1130571023": "100469047",
+            "1130571025": "100469046",
+            "1130571027": "100469043",
+            "1130571028": "100469044"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    },
+    {
+        "affixAttr": {
+            "coo8Sign": "true",
+            "pagContent": "索尼黑卡数码相机DSC-RX100M7",
+            "pagType": "1",
+            "skuId": "1130705424"
+        },
+        "brand": "索尼(SONY)",
+        "brandCode": "00020",
+        "brandId": "10002080",
+        "buyWay": [],
+        "bztType": 1,
+        "detailHref": "//item.gome.com.cn/9140149507-1130705424.html",
+        "energyState": 0,
+        "gomePrice": 8688,
+        "goodsColor": [],
+        "goodsImgs": [
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149507-1130705424.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs17.gomein.net.cn/T1KvAXBmdv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149507-1130705424.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T19vVXBKWv1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149507-1130705424.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs3.gomein.net.cn/T1eeJXB_YT1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149507-1130705424.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs2.gomein.net.cn/T1jIVXB7Av1RCvBVdK"
+            },
+            {
+                "href": "//item.gome.com.cn/bigimage/9140149507-1130705424.html",
+                "imgOtherAttr": {},
+                "linkOtherAttr": {},
+                "src": "//gfs4.gomein.net.cn/T1gIAXBmJv1RCvBVdK"
+            }
+        ],
+        "htmlHref": "//desc.gome.com.cn/html/prodhtml/goodsDesc/descHtml/201908/desc0823-qq194/1130705424.html",
+        "name": "索尼黑卡数码相机DSC-RX100M7",
+        "price": 0,
+        "productId": "9140149507",
+        "productType": "product",
+        "programId": "111111111",
+        "salesProperty": [],
+        "sapSkuType": "ZSP",
+        "selltype": "1",
+        "shelfCtgy": "AB01",
+        "sku": "1130705424",
+        "skuBlackList": false,
+        "skuId": "1130705424",
+        "skuNo": "100553024",
+        "skuNoMap": {
+            "1130705424": "100553024"
+        },
+        "skuType": "ZSP",
+        "stats": 1,
+        "suitSku": [],
+        "threeDflag": false,
+        "vipShopFlag": "0"
+    }
+]
